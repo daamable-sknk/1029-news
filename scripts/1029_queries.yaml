@@ -1,0 +1,22 @@
+# 이태원 참사 관련 언론 검색식
+# BigKinds = 후순위 (미사용)
+
+since: "2022-10-29"
+
+queries:
+  - id: Q1
+    label: 이태원 참사
+    google: '"이태원 참사" OR "10·29 이태원" OR "10.29 이태원"'
+    naver: "이태원 참사"
+  - id: Q2
+    label: 이태원 특조위
+    google: '"이태원 특조위" OR "이태원특조위" OR "이태원참사 특별조사"'
+    naver: "이태원 특조위"
+  - id: Q3
+    label: 이태원 특별법
+    google: '"이태원특별법" OR "이태원 특별법"'
+    naver: "이태원 특별법"
+  - id: Q4
+    label: 공공기록·폐기
+    google: '이태원 (특조위 OR 참사) (기록물 OR 회의록 OR 폐기 OR 국가기록원 OR 중대본)'
+    naver: "이태원 특조위 기록"

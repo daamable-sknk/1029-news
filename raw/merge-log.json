@@ -1,0 +1,86 @@
+{
+  "merged_at": "2026-08-13",
+  "total_items": 91241,
+  "files": [
+    {
+      "file": "NewsResult_20221029-20221030.xlsx",
+      "rows": 4924,
+      "added": 4818,
+      "skipped": 106,
+      "date_min": "20221029",
+      "date_max": "20221030"
+    },
+    {
+      "file": "NewsResult_20221101-20221108.xlsx",
+      "rows": 18162,
+      "added": 17548,
+      "skipped": 614,
+      "date_min": "20221101",
+      "date_max": "20221108"
+    },
+    {
+      "file": "NewsResult_20221109-20221115.xlsx",
+      "rows": 7409,
+      "added": 7164,
+      "skipped": 245,
+      "date_min": "20221109",
+      "date_max": "20221115"
+    },
+    {
+      "file": "NewsResult_20221116-20221130.xlsx",
+      "rows": 8387,
+      "added": 8118,
+      "skipped": 269,
+      "date_min": "20221116",
+      "date_max": "20221130"
+    },
+    {
+      "file": "NewsResult_20221201-20221231.xlsx",
+      "rows": 10698,
+      "added": 10284,
+      "skipped": 414,
+      "date_min": "20221201",
+      "date_max": "20221231"
+    },
+    {
+      "file": "NewsResult_20230101-20230630.xlsx",
+      "rows": 14780,
+      "added": 14312,
+      "skipped": 468,
+      "date_min": "20230101",
+      "date_max": "20230630"
+    },
+    {
+      "file": "NewsResult_20230701-20231231.xlsx",
+      "rows": 8798,
+      "added": 8522,
+      "skipped": 276,
+      "date_min": "20230701",
+      "date_max": "20231231"
+    },
+    {
+      "file": "NewsResult_2024.xlsx",
+      "rows": 13300,
+      "added": 12810,
+      "skipped": 490,
+      "date_min": "20240101",
+      "date_max": "20241231"
+    },
+    {
+      "file": "NewsResult_2025.xlsx",
+      "rows": 5524,
+      "added": 5328,
+      "skipped": 196,
+      "date_min": "20250101",
+      "date_max": "20251231"
+    },
+    {
+      "file": "NewsResult_2026.xlsx",
+      "rows": 2027,
+      "added": 1945,
+      "skipped": 82,
+      "date_min": "20260101",
+      "date_max": "20260813"
+    }
+  ]
+}
