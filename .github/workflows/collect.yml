@@ -2,7 +2,7 @@ name: collect
 
 on:
   schedule:
-    - cron: "0 21 * * *" # 06:00 KST
+    - cron: "0 1 * * *" # 매일 10:00 KST
   workflow_dispatch:
 
 jobs:

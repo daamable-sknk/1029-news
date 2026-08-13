@@ -45,7 +45,7 @@ python3 scripts/1029_import_bigkinds.py
 
 ## GitHub Actions
 
-`.github/workflows/collect.yml` — 매일 06:00 KST 근처 수집 후 `data/` 커밋.
+`.github/workflows/collect.yml` — 매일 10:00 KST 수집 후 `data/` 커밋.
 
 Secrets: `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET` (없으면 Google만).
 
