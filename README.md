@@ -4,9 +4,12 @@
 
 | | |
 |--|--|
-| **웹** | https://daamable-sknk.github.io/1029-news/ |
+| **웹 (공개 주소)** | https://meta-archives.xyz/1029.html |
+| **데이터·이 저장소 Pages** | https://daamable-sknk.github.io/1029-news/ |
 | **저장소** | https://github.com/daamable-sknk/1029-news |
 | **연구 맥락** | `docs/daam/1029-itaewon` (계획·조사는 그쪽, **스크랩 작업은 여기**) |
+
+공개 목록 URL은 **meta-archives**에 두고, JSON·엑셀·수집 스크립트만 이 저장소에 둡니다.
 
 ## 구성
 
