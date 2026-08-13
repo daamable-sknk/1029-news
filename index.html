@@ -179,7 +179,7 @@
   </main>
 
   <footer class="page-foot">
-    <p>BigKinds 백필 · Google/네이버 신규</p>
+    <p>과거 기사는 빅카인즈 · 최근 기사는 Google·네이버로 모읍니다</p>
   </footer>
 
   <div class="modal-backdrop" id="rules-modal" hidden role="presentation">
@@ -189,40 +189,43 @@
         <button type="button" class="modal-close" id="rules-close" aria-label="닫기">×</button>
       </div>
       <div class="modal-body">
-        <p class="lead">이태원 참사·특조위·공공기록 관련 언론 기사를 자동으로 모아, 연구팀이 엑셀로 받아 가공할 수 있게 합니다.</p>
+        <p class="lead">이 목록은 이태원 참사·특조위·공공기록과 관련된 언론 기사를 모아 둔 것입니다. 연구팀이 엑셀로 내려받아 골라 쓰고, <strong>비고</strong>에 메모를 남길 수 있게 했습니다.</p>
 
-        <h3>수집 범위</h3>
+        <h3>무엇을 모으나요</h3>
         <ul>
-          <li>기간: <strong>2022-10-29</strong>(참사일) 이후 ~ 계속</li>
-          <li>소스: <strong>BigKinds</strong>(2022.10~ 백필) · Google News · 네이버 뉴스</li>
-          <li>저장: 제목·발행일·기자·매체·URL 등 메타만 (본문 미러 없음)</li>
+          <li>참사일(<strong>2022년 10월 29일</strong>) 이후 기사</li>
+          <li>제목·날짜·기자·매체·원문 링크만 둡니다. 기사 본문은 저장하지 않습니다</li>
+          <li>같은 기사(같은 주소)는 한 번만 넣습니다</li>
         </ul>
 
-        <h3>검색식</h3>
+        <h3>어디서 가져오나요</h3>
         <ul>
-          <li><code>Q1</code> 이태원 참사 · 10·29 이태원</li>
-          <li><code>Q2</code> 이태원 특조위 · 특별조사</li>
-          <li><code>Q3</code> 이태원특별법</li>
-          <li><code>Q4</code> 기록물·회의록·폐기·국가기록원·중대본 (참사/특조위와 결합)</li>
+          <li><strong>빅카인즈</strong>: 참사 직후부터 쌓인 과거 기사를 한꺼번에 받아 넣었습니다</li>
+          <li><strong>Google 뉴스 · 네이버 뉴스</strong>: 그 이후 새로 나오는 기사를 계속 찾습니다</li>
         </ul>
 
-        <h3>목록·엑셀</h3>
+        <h3>어떤 말로 찾나요</h3>
         <ul>
-          <li>칼럼: 기사제목 · 발행날짜 · 기자명 · 발행처 · url · 비고 · 작성일 · 작성자</li>
-          <li><strong>기자명</strong>: 빅카인즈 기고자는 채움. Google·네이버 검색 API만으로는 기자명을 주지 않아 해당 출처는 비움</li>
-          <li><strong>작성일</strong>은 목록에 스크랩·병합한 시점</li>
-          <li><strong>작성자</strong>(기입자)·<strong>비고</strong>는 비움 — 담당자가 엑셀에서 기재</li>
-          <li>URL 중복은 건너뜀. 링크는 원문 우선, 없으면 Google News 경유 URL</li>
+          <li>이태원 참사, 10·29 이태원</li>
+          <li>이태원 특조위, 특별조사</li>
+          <li>이태원특별법</li>
+          <li>기록물, 회의록, 폐기, 국가기록원, 중대본 등 (참사·특조위와 함께 검색)</li>
+        </ul>
+        <p>검색이 넓어서 관련 없어 보이는 기사가 섞일 수 있습니다. 쓸 기사와 버릴 기사는 연구팀이 고르면 됩니다.</p>
+
+        <h3>엑셀·칸 설명</h3>
+        <ul>
+          <li>칸 구성: 기사제목 · 발행날짜 · 기자명 · 발행처 · url · 비고 · 작성일 · 작성자</li>
+          <li><strong>기자명</strong>: 빅카인즈에서 온 기사는 채워져 있을 수 있고, Google·네이버에서 온 기사는 비어 있는 경우가 많습니다</li>
+          <li><strong>작성일</strong>: 이 목록에 넣은 날 (기사가 처음 난 날이 아닙니다)</li>
+          <li><strong>비고 · 작성자</strong>: 비워 둡니다. 연구팀이 엑셀에서 채웁니다</li>
         </ul>
 
-        <h3>이 페이지</h3>
+        <h3>이 화면에서</h3>
         <ul>
-          <li>조회·기간·검색·페이징 · 엑셀 다운로드</li>
-          <li>주제 카테고리 태그·필터는 두지 않음 — 수집식(Q1~Q4)·출처(BigKinds)와 제목 키워드가 어긋나 불완전함. 주제는 검색으로</li>
-          <li>수집 자체는 GitHub Actions / 로컬 스크립트가 수행</li>
+          <li>발행일로 기간을 좁히거나, 제목·매체로 검색할 수 있습니다</li>
+          <li>오른쪽 위 <strong>엑셀 다운로드</strong>로 전체 목록을 받을 수 있습니다</li>
         </ul>
-
-        <p>쿼리·스크립트: <code>scripts/1029_queries.yaml</code> · <code>scripts/1029_collect.py</code></p>
       </div>
     </div>
   </div>
