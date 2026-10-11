@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-10-10T06:38:36Z",
-    "total_count": 98915,
+    "last_updated": "2026-10-11T06:45:33Z",
+    "total_count": 98925,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,34 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-10-11-f6f73a9ae0",
+      "title": "시대의 아픔을 노래하는 대전 락밴드 '프리버드'",
+      "published_at": "2026-10-11",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=453720",
+      "url_canon": "https://www.goodmorningcc.com/news/articleView.html?idxno=453720",
+      "note": "",
+      "collected_at": "2026-10-11",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-11-4f9c1e5033",
+      "title": "與 서미화 “김용원이 겁박” 발언… 법원 “허위사실, 500만원 배상”",
+      "published_at": "2026-10-11",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.chosun.com/national/court_law/2026/10/11/6XGMZOL455DVZHJWLFHNLRC57I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "url_canon": "https://www.chosun.com/national/court_law/2026/10/11/6XGMZOL455DVZHJWLFHNLRC57I",
+      "note": "",
+      "collected_at": "2026-10-11",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-10-10-9e4d8b4d64",
       "title": "[연기자의 영화읽기] 홀리보이",
@@ -49,6 +77,20 @@
       "url_canon": "https://h21.hani.co.kr/arti/photo/story/60002.html",
       "note": "",
       "collected_at": "2026-10-10",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-10-c7e92ace00",
+      "title": "[미디어비평] \"참사 취재 어디까지? '재난보도 체크리스트",
+      "published_at": "2026-10-10",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.ytn.co.kr/_ln/0103_202610101811328990",
+      "url_canon": "https://www.ytn.co.kr/_ln/0103_202610101811328990",
+      "note": "",
+      "collected_at": "2026-10-11",
       "collector": "auto",
       "source": "naver",
       "query_id": "Q1"
@@ -1547,6 +1589,34 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JUl9iVEpTQXVlMUJ4b2NDdWd4YUlpTFN2aFdTbGFEaVFfQnBnX1d0NklMSGVEMkc1Z1loRHctQ2ctaHVLV2lCa3R2Y3NrUjQ?oc=5",
       "note": "",
       "collected_at": "2026-10-10",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-05-beb4e70596",
+      "title": "이태원참사 4주기 기억식 참석자 6일부터 사전 신청 받는다 - Daum",
+      "published_at": "2026-10-05",
+      "author": "",
+      "publisher": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cTQtVFo0TVpGQlM1SkIzdHEwcUJWNDkwVnBEUWRpZXFSNVBUUElCRF9WaWdyQS1BU1Q0SUdKcTRkbUdFMHJVTC11SHlldEV3NC1SRA?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81cTQtVFo0TVpGQlM1SkIzdHEwcUJWNDkwVnBEUWRpZXFSNVBUUElCRF9WaWdyQS1BU1Q0SUdKcTRkbUdFMHJVTC11SHlldEV3NC1SRA?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-05-5da0d97598",
+      "title": "이태원 참사 4주기…29일 유가족·시민 함께 모여 추모한다 - 노컷뉴스",
+      "published_at": "2026-10-05",
+      "author": "",
+      "publisher": "노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JZFNuUGpkVGxQbHF1MTlZSEMxSlJOemZzajVMejBRM053S2NKVklMaGxoSVJqeWZsWTFORTV1c1A4LW10X2NLYUF2U0FXQ1FoeHc?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JZFNuUGpkVGxQbHF1MTlZSEMxSlJOemZzajVMejBRM053S2NKVklMaGxoSVJqeWZsWTFORTV1c1A4LW10X2NLYUF2U0FXQ1FoeHc?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -6825,6 +6895,34 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMSkVkRW1WQnpPanl6cmxMakVSWVBNb3RwSEZiaVJrc1AxWnBDdUp4NE44a1pHVi1LcVRranRNbzNMTzBuLW5HbkZRQ2VRM1E?oc=5",
       "note": "",
       "collected_at": "2026-10-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-09-22-b1e66218bd",
+      "title": "이태원참사 유가족 \"검찰 수사권 폐지로 검경합수팀 공백 우려‥대책 마련 촉구\" - Daum",
+      "published_at": "2026-09-22",
+      "author": "",
+      "publisher": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYeGJlZC04Sy1xck9XN09TVHhETjBqTGlULWx0M0trdzM5QzRBNGU2WmdWQ3M0WDlrUlR5VnlTYUZ3THN2UEpTa3ZVR0cyQUVtZ0Y1aQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYeGJlZC04Sy1xck9XN09TVHhETjBqTGlULWx0M0trdzM5QzRBNGU2WmdWQ3M0WDlrUlR5VnlTYUZ3THN2UEpTa3ZVR0cyQUVtZ0Y1aQ?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-09-22-d95c4fe742",
+      "title": "이태원참사 유가족 \"개정 형소법 이후, 검경합수팀 대책 필요\" - Daum",
+      "published_at": "2026-09-22",
+      "author": "",
+      "publisher": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTS1JGVVZVT1gwYk5INHpnZllrVjNBNWxMbS1IVUdzb2FvRnY2MEtQTXoxYmNzNTZaM1RYX2k0OVVMaWFpWkVEVGtlVQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTS1JGVVZVT1gwYk5INHpnZllrVjNBNWxMbS1IVUdzb2FvRnY2MEtQTXoxYmNzNTZaM1RYX2k0OVVMaWFpWkVEVGtlVQ?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -290387,6 +290485,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13Rmo4Y1ByMkNiX3lCWGlfMWY4UnlQM2RsSE9UdUdOb0FZc1l3eUZOenJySGhxQzhRUUZvdGVpWG1tYVRwdE0xTDB0OUx0dXFKaXJ3TmF1NFpBV2dKM1JkWm1fcF9oTkl1NEx0QUUxdDdnMWhHamZV?oc=5",
       "note": "",
       "collected_at": "2026-10-07",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q3"
+    },
+    {
+      "id": "a1029-2024-05-01-e62f4d1b7d",
+      "title": "[속보]대통령실 \"여야 이태원특별법 합의 이뤄 환영\" - Daum",
+      "published_at": "2024-05-01",
+      "author": "",
+      "publisher": "Daum",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WZkxQZ3NZLWhhR3ViSW1EMHdPVnBEMEdfdm9FUU5PcVNlMkZsRzZSaDI4b3ppeXl1bElmUzZiejUxbGpBQjJpMnRNdDFTRkJQcTQxOQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WZkxQZ3NZLWhhR3ViSW1EMHdPVnBEMEdfdm9FUU5PcVNlMkZsRzZSaDI4b3ppeXl1bElmUzZiejUxbGpBQjJpMnRNdDFTRkJQcTQxOQ?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q3"
@@ -1592586,6 +1592698,20 @@
       "query_id": "Q4"
     },
     {
+      "id": "a1029-2022-11-01-41811da4ba",
+      "title": "[이태원 참사] 사망자 156명으로 늘어…부상자 111명 귀가 - 연합뉴스",
+      "published_at": "2022-11-01",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWlYwSzYybjl1OWdpaW9IWEFzclhhUWRyNXJQQmZyMk96eEd5V0N6OHVlV2ZEeWc5anlobTJmRGROUVlfV0dHM2VPc3RPek1NcW5BaWxFczlnUjg?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YWlYwSzYybjl1OWdpaW9IWEFzclhhUWRyNXJQQmZyMk96eEd5V0N6OHVlV2ZEeWc5anlobTJmRGROUVlfV0dHM2VPc3RPek1NcW5BaWxFczlnUjg?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q4"
+    },
+    {
       "id": "bk-2022-10-31-183fb86181",
       "title": "[이태원 참사] 충남도 사고 사망자 합동분향소 마련",
       "published_at": "2022-10-31",
@@ -1680865,6 +1680991,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kT2RaRk02elpzeFJXTTNMNkFDQnlCRGpxVHNybTI0a3Y3UzNmcGR3aXYzaDZPcGl5YXdZMElRY1FwVWxJVllfYjhPR3Raa2pMaVpRa05tTWbSAVRBVV95cUxORHJCOS04bUVkZXNjV0doczBQQTU2cWFYR0hRZWxVd25Sc1FIR0poRkUwZDdXSGZITTYzTHJnb29BbVItUHl4YnBGeVo1WkZ5M2NKbGw?oc=5",
       "note": "",
       "collected_at": "2026-09-04",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2022-10-31-df05d520b3",
+      "title": "[이태원 참사] 외국인 사망자 집계, 중대본 20명 vs 경찰 26명…또 반복된 재난 속 '우왕좌왕’ - 아시아경제",
+      "published_at": "2022-10-31",
+      "author": "",
+      "publisher": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pd1ZvTlpUMk5kckJzTURDODZuaFpDRDBISTlKT1lCU3RVczh2SXFpdmpGRTItNHVlcEMwNzU2WWxxVGdnWXQ2ei03WW95RzZQWllTUVlTTzRGUFZDZXJIdQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pd1ZvTlpUMk5kckJzTURDODZuaFpDRDBISTlKT1lCU3RVczh2SXFpdmpGRTItNHVlcEMwNzU2WWxxVGdnWXQ2ei03WW95RzZQWllTUVlTTzRGUFZDZXJIdQ?oc=5",
+      "note": "",
+      "collected_at": "2026-10-11",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
