@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-05T07:38:47Z",
-    "total_count": 101594,
+    "last_updated": "2026-11-06T07:36:07Z",
+    "total_count": 101629,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,34 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-06-f74c796148",
+      "title": "'콜옵4' 영상 삭제 환영한 한국게임이용자협회 \"부당한 제재는 반대\"",
+      "published_at": "2026-11-06",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408119",
+      "url_canon": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408119",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-06-5d06424ce0",
+      "title": "[단독] “놀러간 엄마, 식물인간으로”…그 축제, 구급차가 없었다",
+      "published_at": "2026-11-06",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.joongang.co.kr/article/25476267",
+      "url_canon": "https://www.joongang.co.kr/article/25476267",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-05-f8af8af40f",
       "title": "이태원 참사 유가족, 아픔 넘어 이웃사랑 실천…연탄 2,700장 '나눔' - 한국NGO신문",
@@ -119,6 +147,76 @@
       "url_canon": "https://www.cnbizm.com/news/articleView.html?idxno=320431",
       "note": "",
       "collected_at": "2026-11-05",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-05-84d78937e4",
+      "title": "이태원참사 4년, 뚜안 사망 1년…진상 규명은 언제쯤 - 여성신문",
+      "published_at": "2026-11-05",
+      "author": "",
+      "publisher": "여성신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HLUhFaFJBbjhoM2tMUUk1M2lmUnpMN3VSTXgwSmpvOHhabUFUaE5OZUc1R3JQNDVaZFJxWFI0emRFQzdSSk9nY2d6NVZnUE9HUmZWVDM2dHRFcTYyYVlnVXAwNEFmQ096QUZnWXFGNNIBc0FVX3lxTE9WQWJXOG9vMnJLdTd2WmdRRGV4TW40MVFyZUJQRDlVS18tblZqN2V5SnNPenJseFN6a1d1MlN5UzVyNEhkeXBXbnlhaWhBeE9Fd0FLeXNYTGNNR1VBMldubmxYVDNwb2xjTlVXOEppUFBnUlU?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HLUhFaFJBbjhoM2tMUUk1M2lmUnpMN3VSTXgwSmpvOHhabUFUaE5OZUc1R3JQNDVaZFJxWFI0emRFQzdSSk9nY2d6NVZnUE9HUmZWVDM2dHRFcTYyYVlnVXAwNEFmQ096QUZnWXFGNNIBc0FVX3lxTE9WQWJXOG9vMnJLdTd2WmdRRGV4TW40MVFyZUJQRDlVS18tblZqN2V5SnNPenJseFN6a1d1MlN5UzVyNEhkeXBXbnlhaWhBeE9Fd0FLeXNYTGNNR1VBMldubmxYVDNwb2xjTlVXOEppUFBnUlU?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-05-64cb2f6db7",
+      "title": "이태원참사 4년, 뚜안 사망 1년…진상 규명은 언제쯤",
+      "published_at": "2026-11-05",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.womennews.co.kr/news/articleView.html?idxno=284095",
+      "url_canon": "https://www.womennews.co.kr/news/articleView.html?idxno=284095",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-05-787c673241",
+      "title": "[중얼거리는 사진 한 장]이태원의 머리카락",
+      "published_at": "2026-11-05",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.khan.co.kr/article/202611052022005",
+      "url_canon": "https://www.khan.co.kr/article/202611052022005",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-05-5903c2b5f4",
+      "title": "기억하자 그날을",
+      "published_at": "2026-11-05",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.kbmaeil.com/article/20261105500126",
+      "url_canon": "https://www.kbmaeil.com/article/20261105500126",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-05-234d4bb7ec",
+      "title": "[시니어그룹] \"산은 산이게, 강은 강이게\" 개발 논리에 맞선 사람들",
+      "published_at": "2026-11-05",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282118&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "url_canon": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282118&CMPT_CD=P0010",
+      "note": "",
+      "collected_at": "2026-11-06",
       "collector": "auto",
       "source": "naver",
       "query_id": "Q1"
@@ -908,6 +1006,20 @@
       "query_id": "Q1"
     },
     {
+      "id": "a1029-2026-11-03-e4fca7ed1a",
+      "title": "서울시의회 함대건 의원, 이태원참사 4주기 맞아 추모·피해자 지원 및 재발 방지 대책 촉구 - 웹이코노미",
+      "published_at": "2026-11-03",
+      "author": "",
+      "publisher": "웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01MWNNTmZRLXM0a3FYeXBKbGUxVUt1UG5IUHEzbHA3VjMxNXFCWkNhTHZCR1VfWkdobVZtdVBGMVotOEZPMzVOMXpZT2FjaDBvcnVfNFBYUFVhNFZEeUkxRERvQ3k0QnhHc0dNRnBneEZWQQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMickFVX3lxTE01MWNNTmZRLXM0a3FYeXBKbGUxVUt1UG5IUHEzbHA3VjMxNXFCWkNhTHZCR1VfWkdobVZtdVBGMVotOEZPMzVOMXpZT2FjaDBvcnVfNFBYUFVhNFZEeUkxRERvQ3k0QnhHc0dNRnBneEZWQQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "a1029-2026-11-02-1a7dde9a9d",
       "title": "용혜인 국회의원 \"이태원 참사 4주기, 진실에 닿는 그날까지 함께하겠습니다\" - 뉴뉴스",
       "published_at": "2026-11-02",
@@ -1563,6 +1675,20 @@
       "collected_at": "2026-11-03",
       "collector": "auto",
       "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-02-bb12db3e21",
+      "title": "용산구의회, 이태원 참사 4주기 맞아 희생자 추모…“안전한 용산 만들 것” - 잡포스트",
+      "published_at": "2026-11-02",
+      "author": "",
+      "publisher": "잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TOHVsOHpZRUxRazVIZTBBS09vWlB6LWFhNmlaR1Bsek1YbEptZ0JuYXNWQm9FdkJlbXE5Z3g5dVFNeElKQ1hnc2lOMjN4bEZhU2dIbV9DdnUxNnljSG1ENWNpVWZrSDJwLWpsQVlR0gFyQVVfeXFMTWc2dlFYdFY2SG8zV2s4VjExeWJ2UTBmdFdQOUpUaHZmUmItNDZtRE1mY01QN2g3aFFkQXdRTWhfOEVXdzlUeFZEZ21uQTVCdUdXdFBoWkpxZEk3S2JCT2l3WUZ5ankxQVRjNFBvc25IckxR?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TOHVsOHpZRUxRazVIZTBBS09vWlB6LWFhNmlaR1Bsek1YbEptZ0JuYXNWQm9FdkJlbXE5Z3g5dVFNeElKQ1hnc2lOMjN4bEZhU2dIbV9DdnUxNnljSG1ENWNpVWZrSDJwLWpsQVlR0gFyQVVfeXFMTWc2dlFYdFY2SG8zV2s4VjExeWJ2UTBmdFdQOUpUaHZmUmItNDZtRE1mY01QN2g3aFFkQXdRTWhfOEVXdzlUeFZEZ21uQTVCdUdXdFBoWkpxZEk3S2JCT2l3WUZ5ankxQVRjNFBvc25IckxR?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
       "query_id": "Q1"
     },
     {
@@ -2669,6 +2795,48 @@
       "collected_at": "2026-11-02",
       "collector": "auto",
       "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-01-ba77733397",
+      "title": "\"그날도 이랬으면\" 홍석천, '이태원 참사 4주기' 추모..달라진 핼러윈 거리 - 스타뉴스",
+      "published_at": "2026-11-01",
+      "author": "",
+      "publisher": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LYUViVU1jMG82NDJpTGhLV2REbzFlWlJHT0poYVlHR1JlTHJxbTcwQzRFbnB2VG5rMHJoY05zLU9fQ3hrYU1PcWROdjdsUVJWNnBWNGdXd1kyMjBtOVhmVFlEUEpTamNWdkpCMEpMbUZhUHc?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LYUViVU1jMG82NDJpTGhLV2REbzFlWlJHT0poYVlHR1JlTHJxbTcwQzRFbnB2VG5rMHJoY05zLU9fQ3hrYU1PcWROdjdsUVJWNnBWNGdXd1kyMjBtOVhmVFlEUEpTamNWdkpCMEpMbUZhUHc?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-01-795e3460f8",
+      "title": "액티비전, '콜 오브 듀티' 이태원 참사 영상 전면 삭제 예고…“깊은 사과” - CWN",
+      "published_at": "2026-11-01",
+      "author": "",
+      "publisher": "CWN",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYWHhFd01rQ2xqTHJ6M2hrR2wtUE56bXJnTUQxdXhaenpKTndsMmQ0SkdJOEdRQzhFcmJiY2xQYmN5R2FRX2NVOWVPaXlESXJqR2FPaTZoa0wxZm5FSXlUNTNR?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYWHhFd01rQ2xqTHJ6M2hrR2wtUE56bXJnTUQxdXhaenpKTndsMmQ0SkdJOEdRQzhFcmJiY2xQYmN5R2FRX2NVOWVPaXlESXJqR2FPaTZoa0wxZm5FSXlUNTNR?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-01-37fadc3b36",
+      "title": "'이태원 참사' 이후 4년 만에 주말과 겹친 핼러윈, 대형사고는 없었다 : 대로변에 등장한 장갑차와 기동대 - 허프포스트코리아",
+      "published_at": "2026-11-01",
+      "author": "",
+      "publisher": "허프포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uNWlRdzRqY25CZjAwM2t5bjJOTDZMcS1BT3RJcnY3UTFMdlpQb0x2ZVZ6TTk0N1hZaTUtYVNVRDFUSFhrUktwRzRSVW9ZSUhILVVtOGQ5WQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uNWlRdzRqY25CZjAwM2t5bjJOTDZMcS1BT3RJcnY3UTFMdlpQb0x2ZVZ6TTk0N1hZaTUtYVNVRDFUSFhrUktwRzRSVW9ZSUhILVVtOGQ5WQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
       "query_id": "Q1"
     },
     {
@@ -4291,6 +4459,48 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5aWtmQmh2S3NOV254SVd2LWc1LUxOY2JYQ3lyS2RjdlU0SUZxVFJOREhtOHV2cjJuclZvcloyYzE1cDhsVGdFQVc0d2sweU1JUXlFVzIxMXBXVThNQ2c?oc=5",
       "note": "",
       "collected_at": "2026-11-05",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-31-e0c733df27",
+      "title": "'이태원 참사 4년' 부산·울산 주말 핼러윈 인파 대책은? - 프레시안",
+      "published_at": "2026-10-31",
+      "author": "",
+      "publisher": "프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HOUtXbDJ3MTBTTFJvSHJlaWpqazhIT1BubFd0VDY0NnZNWURtSEJUaFZidUJFeVVrS0JaUzVXQ05oVHBkYnpuN1F3T0ZMWWJFY291MHlvSVNILVhsRU5yOGZTN21GMzFGY3Fz?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HOUtXbDJ3MTBTTFJvSHJlaWpqazhIT1BubFd0VDY0NnZNWURtSEJUaFZidUJFeVVrS0JaUzVXQ05oVHBkYnpuN1F3T0ZMWWJFY291MHlvSVNILVhsRU5yOGZTN21GMzFGY3Fz?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-31-6cfcf1e388",
+      "title": "이태원 참사 4년…서울시·자치구 대응 어떻게 달라졌나[인파 안전진단①] - 파이낸셜뉴스",
+      "published_at": "2026-10-31",
+      "author": "",
+      "publisher": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84c1F0SUZGb1BrRlBjZXlublhsNzk5dXluN0wzcGNFb0sxYjBJdTFLQXdWcEN2Qm9ROF9WRFBJVVZFVzVBQnpFdU1GdjZPRGZZT0Rvd2hBcHphUQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84c1F0SUZGb1BrRlBjZXlublhsNzk5dXluN0wzcGNFb0sxYjBJdTFLQXdWcEN2Qm9ROF9WRFBJVVZFVzVBQnpFdU1GdjZPRGZZT0Rvd2hBcHphUQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-31-15e75e5baf",
+      "title": "[현장] 이태원 참사의 그곳, 장갑차 특공대까지 등장했다…핼러윈 앞둔 이태원 [세상&] - 헤럴드경제",
+      "published_at": "2026-10-31",
+      "author": "",
+      "publisher": "헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aNnEtUDJ6a1p4eHh6NFltY0NPaGc3WF82UV80M1hyZGZEM1RpVTRLQ3dpYW1EY093SGhvUHptTUE2WFl3MU1Ob2JXWjBkM3owNHRteElR?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aNnEtUDJ6a1p4eHh6NFltY0NPaGc3WF82UV80M1hyZGZEM1RpVTRLQ3dpYW1EY093SGhvUHptTUE2WFl3MU1Ob2JXWjBkM3owNHRteElR?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -7077,6 +7287,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OUksyUWFfVG5Na29KRVRzTURrc09VS19iS2w3MUtVdUNOV2NJUURiSVRIZ2ZJSjJuV1RXc3UwX0gzZkJXODBjVFNqeXJlQ25ZWWhXd2pqM1N1MklHbzhxVw?oc=5",
       "note": "",
       "collected_at": "2026-11-05",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-30-56ee1b9cb8",
+      "title": "북적이는 홍대, 조용한 이태원... 이태원 참사 4주기 엇갈린 풍경 - 한국일보",
+      "published_at": "2026-10-30",
+      "author": "",
+      "publisher": "한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xdl80WXZyUTZNZ0NrNndlU3RnLXlKTF9DZHlPMk01aURnQ1BNZUxFN3c4X2JqVEtHNTBxWWY5TzVEQnRCY2Q0R0U0UVZuWlZJOVluUGhpUkRPaElKT2h5U0xRdDRDdWVzZDc1V1p30gFzQVVfeXFMTUR3ZTVONU1sclo5QzkxMHl2RHF6bTR4UTladmNkLTlJRnJib2pMc3JjQlJVZi1vTl9COXN0elZCT0RNU3o2RXJDckNOY0VLeS0yeTFMOVc0QjhnRG5TN0hGeFNsNkppV3lUejFyUXBNMzU0VQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xdl80WXZyUTZNZ0NrNndlU3RnLXlKTF9DZHlPMk01aURnQ1BNZUxFN3c4X2JqVEtHNTBxWWY5TzVEQnRCY2Q0R0U0UVZuWlZJOVluUGhpUkRPaElKT2h5U0xRdDRDdWVzZDc1V1p30gFzQVVfeXFMTUR3ZTVONU1sclo5QzkxMHl2RHF6bTR4UTladmNkLTlJRnJib2pMc3JjQlJVZi1vTl9COXN0elZCT0RNU3o2RXJDckNOY0VLeS0yeTFMOVc0QjhnRG5TN0hGeFNsNkppV3lUejFyUXBNMzU0VQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -11907,6 +12131,62 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1OE1HVi1hNzROQUdCOWJpaDRyYUtMbjRrWFdwXzRKV1J5R2Q0WEg4Zld1MUw5N1UycmJtVmVSRFJMTTBKUmdMMUJuZVh6ckFzYWw1SWo2TXJXWGkyT3hQUkhkNnlSaHl5bGfSAW5BVV95cUxQcWU4OF9xX2lPYk96WExIbTV4Mjg4YjdQQnp6V2RDWGc0TkF0NGo1SE55T00xenQ5aDZvUHgtY0Vjc24xZVVOYlI3NHNYY2FLeXYzUUVSR0VOaVI5OUh0WnBmSHVzbHY0TFAxczAzZw?oc=5",
       "note": "",
       "collected_at": "2026-11-05",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-29-caf9f0e4b7",
+      "title": "이태원 참사 4년‥종일 '보랏빛' 추모 물결 - MBC 뉴스",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Fc19IUmNhSC0zUDE0Szgxam5RczlQTGI4RDExVjg4TWJ5V1NydXVQazRSMVhZbTY2RWJNTXlDWXc3NXRhc2RZeDhQVnN3RDRlaEdzelIwQURpUUI5MEpFNnhjaE1ZdXRTV29IQmpZVS1QbFJwenRMaNIBeEFVX3lxTE9hVXlEdXpDeUdrM1lvS3pvODdObVdpU1VyeE9zT0lBSTBjMTN2aHp6ZWNPcjJzS3ExZ3N3dGYzeEhnTTFLOUkwNTZDSkdncF9wSktmNUp6YnhRdnZSMk9RVVg5WW1qajh1dmtKbDRYWTRDMklYNllPag?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Fc19IUmNhSC0zUDE0Szgxam5RczlQTGI4RDExVjg4TWJ5V1NydXVQazRSMVhZbTY2RWJNTXlDWXc3NXRhc2RZeDhQVnN3RDRlaEdzelIwQURpUUI5MEpFNnhjaE1ZdXRTV29IQmpZVS1QbFJwenRMaNIBeEFVX3lxTE9hVXlEdXpDeUdrM1lvS3pvODdObVdpU1VyeE9zT0lBSTBjMTN2aHp6ZWNPcjJzS3ExZ3N3dGYzeEhnTTFLOUkwNTZDSkdncF9wSktmNUp6YnhRdnZSMk9RVVg5WW1qajh1dmtKbDRYWTRDMklYNllPag?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-29-f37a8c8515",
+      "title": "이재명 대통령, 이태원참사 기억식 참석 - 연합뉴스",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5STnNsQkpmZFBkaFVoVlBwWjgxYllzdHREaFZGT1MzaUJRNEVuWk9mak9RcEQta05uZTRJU0YtNE9MRjluTHd3QzV0UzRySHNpR0dtME5lRGphUW9XSVAwWNIBYEFVX3lxTE5STnNsQkpmZFBkaFVoVlBwWjgxYllzdHREaFZGT1MzaUJRNEVuWk9mak9RcEQta05uZTRJU0YtNE9MRjluTHd3QzV0UzRySHNpR0dtME5lRGphUW9XSVAwWA?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5STnNsQkpmZFBkaFVoVlBwWjgxYllzdHREaFZGT1MzaUJRNEVuWk9mak9RcEQta05uZTRJU0YtNE9MRjluTHd3QzV0UzRySHNpR0dtME5lRGphUW9XSVAwWNIBYEFVX3lxTE5STnNsQkpmZFBkaFVoVlBwWjgxYllzdHREaFZGT1MzaUJRNEVuWk9mak9RcEQta05uZTRJU0YtNE9MRjluTHd3QzV0UzRySHNpR0dtME5lRGphUW9XSVAwWA?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-29-ad254624c9",
+      "title": "이태원 참사 4년, 시민들이 지켜온 기억 메시지 2만4천여 건 아카이브로 공개 - 캠페인즈",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "캠페인즈",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDN1RTMXJJOWN6MVVkdVZTWWV2cDExajVPR1BxZG9lb2E2OEJnNVpjM2pLU1UyYkhYNVA0aWJxUC0wU2I4Nk9xcQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDN1RTMXJJOWN6MVVkdVZTWWV2cDExajVPR1BxZG9lb2E2OEJnNVpjM2pLU1UyYkhYNVA0aWJxUC0wU2I4Nk9xcQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-29-9213259cda",
+      "title": "세월호·이태원 참사 허위사실 유포 50대, 항소심서 혐의 인정하고 사죄 - 세계일보",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1V01kNEJZN2hlX1ZfV010M1VDNDJXNHdqS3BvNDRjNXZDTVBWN3lZZ1ZrWDNjUmhEWFJiZVJZZ2RqZDlwQkJnQmJfYlVEcmVNa2ZIWGZqTHXSAVRBVV95cUxPamx1N1UxNGp3UTVaNUpnNHgxdVB2bGd5MW80UkFLSE9pX25XVmpTY2dWR0JlV0QwQTRPV2lJeXR4WmxiYmVDa1d1RmxNZ1NLQmlSZzA?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1V01kNEJZN2hlX1ZfV010M1VDNDJXNHdqS3BvNDRjNXZDTVBWN3lZZ1ZrWDNjUmhEWFJiZVJZZ2RqZDlwQkJnQmJfYlVEcmVNa2ZIWGZqTHXSAVRBVV95cUxPamx1N1UxNGp3UTVaNUpnNHgxdVB2bGd5MW80UkFLSE9pX25XVmpTY2dWR0JlV0QwQTRPV2lJeXR4WmxiYmVDa1d1RmxNZ1NLQmlSZzA?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -27718,6 +27998,20 @@
       "query_id": "Q1"
     },
     {
+      "id": "a1029-2026-10-21-d03cefd2f8",
+      "title": "조국혁신당, 10.29 이태원 참사 유가족 대표단 면담 - 연합뉴스",
+      "published_at": "2026-10-21",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lNGpEUFJETENGaUlPdUExX2sxMUV5WnV6dFd6OUtJMmxNU3NDNEJmNlNDaDRwN0FuNGt3d2hVUXIybFNDNXdpVGR4Y3pTYjdVdksxWjBKZnIxdjV1OFAyOdIBYEFVX3lxTE1lNGpEUFJETENGaUlPdUExX2sxMUV5WnV6dFd6OUtJMmxNU3NDNEJmNlNDaDRwN0FuNGt3d2hVUXIybFNDNXdpVGR4Y3pTYjdVdksxWjBKZnIxdjV1OFAyOQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lNGpEUFJETENGaUlPdUExX2sxMUV5WnV6dFd6OUtJMmxNU3NDNEJmNlNDaDRwN0FuNGt3d2hVUXIybFNDNXdpVGR4Y3pTYjdVdksxWjBKZnIxdjV1OFAyOdIBYEFVX3lxTE1lNGpEUFJETENGaUlPdUExX2sxMUV5WnV6dFd6OUtJMmxNU3NDNEJmNlNDaDRwN0FuNGt3d2hVUXIybFNDNXdpVGR4Y3pTYjdVdksxWjBKZnIxdjV1OFAyOQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "a1029-2026-10-20-c67b94735d",
       "title": "[단독] 민주당 용산지역위, 이태원 참사 추모행사 날 ‘외유성 연수’ 논란 - 한겨레",
       "published_at": "2026-10-20",
@@ -39235,6 +39529,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQU25MWU1CaDhGLVZQUnFPeEZtVjMyVTZfaU9BNEZxV01zd0l2V2V1SFpvV2owcGRpcW5OdkdLZ2tpRWZ5Y3UtYzhOQVhWRE94b0EwS0ZLd3VhREZfX0FqWEVDbFFoZmVaY1M3aVB3?oc=5",
       "note": "",
       "collected_at": "2026-10-16",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-01-325963058c",
+      "title": "이태원 참사 4주기 앞두고 “기억과 애도의 달” 선포…160번째 희생자 영정 걸어 - KBS 뉴스",
+      "published_at": "2026-10-01",
+      "author": "",
+      "publisher": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QTmo1ZE9Ra2NSUUxRb0RMR0UzSFpHYnMwMEhUM1lHQnY0UzRYU3hCVUxvbGdqeDBxNF9yMWFNUUNQVlA5ekpwdi1KSDBvNkQ0S3IyUG54dWZxc19hQ1NNeDlWSzQ3QQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QTmo1ZE9Ra2NSUUxRb0RMR0UzSFpHYnMwMEhUM1lHQnY0UzRYU3hCVUxvbGdqeDBxNF9yMWFNUUNQVlA5ekpwdi1KSDBvNkQ0S3IyUG54dWZxc19hQ1NNeDlWSzQ3QQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -99186,6 +99494,20 @@
       "query_id": "Q1"
     },
     {
+      "id": "a1029-2026-03-11-575d12de4d",
+      "title": "이태원참사 유가족 \"尹 청문회 불출석은 진실 규명 거부\" - MBC 뉴스",
+      "published_at": "2026-03-11",
+      "author": "",
+      "publisher": "MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWaGFYZktkSlEtbkdkRFhEQXpFUmhMUVllSmYyc1V3SFY4Vk9tSU5Xam9jcFBCQ3lwRmlqdmhxdzQ3Ym9vNDFSQm5pU3JobzBQTTFGYUx3ZlhwM00zblNSdlEzS3BfMzVWdjFNVzN3dWhNVVR6emZR0gF3QVVfeXFMUFhoN3lxWU1lOXhpVFlZYjJOTkVDT29kcXdhMXZ6NmxrM21ETkM1SFRpNEtuWjNNYW1yby01SVJfVTduTlRxSVVqcXlKd1JTZDhLVExCQ0haZkpEZkRhWVZOMVNZMjYwVjRJODlOVlpBelNPbVc3UDg?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWaGFYZktkSlEtbkdkRFhEQXpFUmhMUVllSmYyc1V3SFY4Vk9tSU5Xam9jcFBCQ3lwRmlqdmhxdzQ3Ym9vNDFSQm5pU3JobzBQTTFGYUx3ZlhwM00zblNSdlEzS3BfMzVWdjFNVzN3dWhNVVR6emZR0gF3QVVfeXFMUFhoN3lxWU1lOXhpVFlZYjJOTkVDT29kcXdhMXZ6NmxrM21ETkM1SFRpNEtuWjNNYW1yby01SVJfVTduTlRxSVVqcXlKd1JTZDhLVExCQ0haZkpEZkRhWVZOMVNZMjYwVjRJODlOVlpBelNPbVc3UDg?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "a1029-2026-03-10-4995bbffb4",
       "title": "법원, 尹 재판 미뤄…이태원참사 청문회 일정 고려 - 연합뉴스TV",
       "published_at": "2026-03-10",
@@ -104654,6 +104976,20 @@
       "reporter": "장유진",
       "source_file": "NewsResult_2026.xlsx",
       "category1": "문화>출판"
+    },
+    {
+      "id": "a1029-2026-02-03-fec7af9035",
+      "title": "이태원참사 희생자·피해자 '2차 가해' 방지…지원 신청기한 연장 - 대한민국 정책브리핑",
+      "published_at": "2026-02-03",
+      "author": "",
+      "publisher": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MGZRVkFwdWEzX0Z3UC0xM3JUczc2czZ1c0RseWowR3F3YU9iOUZMY3ZvMEhGdThFMnpWaFlGcHZVcjIwOXUwenRxdVpMSVpqTWdTLUpWRm5OenBMX2p2MVpNQmptb0dQYTJjdw?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MGZRVkFwdWEzX0Z3UC0xM3JUczc2czZ1c0RseWowR3F3YU9iOUZMY3ZvMEhGdThFMnpWaFlGcHZVcjIwOXUwenRxdVpMSVpqTWdTLUpWRm5OenBMX2p2MVpNQmptb0dQYTJjdw?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2026-02-02-b367622da9",
@@ -128118,6 +128454,20 @@
       "query_id": "Q3"
     },
     {
+      "id": "a1029-2025-10-28-61bcb66c19",
+      "title": "29일에 '이태원참사 3주기 기억식' 개최…정부 첫 공식 추모식 - 대한민국 정책브리핑",
+      "published_at": "2025-10-28",
+      "author": "",
+      "publisher": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HNVhlS09aRGhoWk1neG1JTHRfTlh0aXE0ek5DMkJMekxQNkp0cFBlVTctWnRrTFYxOFNGaWJZc243YVQyajlmR3hqanhEaWRQQkZTcW51MGtWUllPNUdWSWg5cVRQaFE1Z0VYZg?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HNVhlS09aRGhoWk1neG1JTHRfTlh0aXE0ek5DMkJMekxQNkp0cFBlVTctWnRrTFYxOFNGaWJZc243YVQyajlmR3hqanhEaWRQQkZTcW51MGtWUllPNUdWSWg5cVRQaFE1Z0VYZg?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2025-10-27-b1b7b8607d",
       "title": "[기고] 이태원 참사 3년, 다시는 없도록",
       "published_at": "2025-10-27",
@@ -131367,6 +131717,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SllWNG5JbHo5bTZTUkljeGZhTE5Lai1RSEpQVFdXanpQa3NIaFpySU1iQmdxNFVfeXhjQWhBUW5nQzNUZWgzX1RKY1NrMUNCOFlnblVHWENDZXBGQU5ZWE5SclJDUEk?oc=5",
       "note": "",
       "collected_at": "2026-08-17",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2025-10-25-6cfd999642",
+      "title": "'10·29 이태원참사' 3주기…유가족·정부 첫 공동 추모행사 - 연합뉴스",
+      "published_at": "2025-10-25",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aUGczUUlqRVIxcTNpOWV1TGRXZU16UURacThLdkFoMDVYYzA4YWVWdFRFSUt5ZG5EbVJwUUpOQl96dXZQRzkwblhWVlpNN3pNVEREUHNLVWw0eVnSAWBBVV95cUxOTzA0cnNzS2swSHpDWFhYMDFLVF9TNDBfa3ZGaHNkMEhrMnJlWFBWUU4taFpXbGtEeUhRbDYzakZfS19yTXl1aGRkLVFUNm1FT2RFNThDR1M4RlpGeDdiYlo?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aUGczUUlqRVIxcTNpOWV1TGRXZU16UURacThLdkFoMDVYYzA4YWVWdFRFSUt5ZG5EbVJwUUpOQl96dXZQRzkwblhWVlpNN3pNVEREUHNLVWw0eVnSAWBBVV95cUxOTzA0cnNzS2swSHpDWFhYMDFLVF9TNDBfa3ZGaHNkMEhrMnJlWFBWUU4taFpXbGtEeUhRbDYzakZfS19yTXl1aGRkLVFUNm1FT2RFNThDR1M4RlpGeDdiYlo?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -259748,6 +260112,20 @@
       "query_id": "Q4"
     },
     {
+      "id": "a1029-2024-09-27-6867b96a8b",
+      "title": "[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나 - 뉴스타파",
+      "published_at": "2024-09-27",
+      "author": "",
+      "publisher": "뉴스타파",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRXN1THJsZmpTTFFRdTBkSXpSZ3didHlSeFd1ZU5VY3dIZ1VFdEkwUWVDMjNfQXJocEVMcDNvVzRsTTJpd0hPc1JB?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRXN1THJsZmpTTFFRdTBkSXpSZ3didHlSeFd1ZU5VY3dIZ1VFdEkwUWVDMjNfQXJocEVMcDNvVzRsTTJpd0hPc1JB?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2024-09-26-a963470953",
       "title": "일상과 민주주의에 징검다리 놓은 30년",
       "published_at": "2024-09-26",
@@ -263492,6 +263870,20 @@
       "reporter": "오수진",
       "source_file": "NewsResult_2024.xlsx",
       "category1": "정치>국회_정당"
+    },
+    {
+      "id": "a1029-2024-09-05-951906a46d",
+      "title": "[이태원 참사 미규명 진실] ① 그날 경찰은 왜 기동대를 배치하지 않았나 - 뉴스타파",
+      "published_at": "2024-09-05",
+      "author": "",
+      "publisher": "뉴스타파",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yb2kzNjYxT21laFhIcFpnbGxOb0NwTXdRVFhib2lUd1d0cFBNODRDZWtXUml1S1c3X29nRUVaZjR2eW55U2V1M013?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yb2kzNjYxT21laFhIcFpnbGxOb0NwTXdRVFhib2lUd1d0cFBNODRDZWtXUml1S1c3X29nRUVaZjR2eW55U2V1M013?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2024-09-04-af6191adee",
@@ -507980,6 +508372,20 @@
       "category1": "사회>사건_사고"
     },
     {
+      "id": "a1029-2023-10-26-e3a8976d13",
+      "title": "이태원 참사 1년, 기억을 지키는 생존자와 유가족들 - BBC",
+      "published_at": "2023-10-26",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51ZHdsZDRNT3pmUVFLbTRmS3pOZEJtZFJ1bFh0YThadnJLSkZKeGpKWmh3cHEteGhWTjBvTzdOcEI0VnVsejQ2TkhaQWQ1VEpxUGxPblFOb9IBXEFVX3lxTE1QM1J4Szh2TDhBeTIxTTU2UUZkTVRiLWQtQTlVT1ozSmEzRlVvU1E2QnlOajR5OUZsaHpXUFp3aTlFM1I4S0ZrVmtsNWxWSFdUMkFTZE9RZVBHUHhT?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51ZHdsZDRNT3pmUVFLbTRmS3pOZEJtZFJ1bFh0YThadnJLSkZKeGpKWmh3cHEteGhWTjBvTzdOcEI0VnVsejQ2TkhaQWQ1VEpxUGxPblFOb9IBXEFVX3lxTE1QM1J4Szh2TDhBeTIxTTU2UUZkTVRiLWQtQTlVT1ozSmEzRlVvU1E2QnlOajR5OUZsaHpXUFp3aTlFM1I4S0ZrVmtsNWxWSFdUMkFTZE9RZVBHUHhT?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2023-10-25-8a7a08d72a",
       "title": "이태원 참사 유가족 \"'왜 갔느냐' 보단 '왜 못 돌아왔나' 기억해주세요\"",
       "published_at": "2023-10-25",
@@ -512042,6 +512448,20 @@
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2023-10-25-8b608bdced",
+      "title": "이태원 참사, 그 후 1년: 사는 곳·언어 달라도…유가족들이 바라는 것 - BBC",
+      "published_at": "2023-10-25",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YeFRJWHVWMC1ZNURsNU1EV2hEQndLTzFENEQ3ODlNY1RSLU9JRzFvaUVEX0ZrN2pGUlFwNFlJd2Mtb3MzSk9SaUxYNWtZeHAzcklUaVptU05HYzdD0gFiQVVfeXFMTmVtRXFqQmNraE44Y2NETDJkR09pelk0VjV2MG1CcjQyMG5mTGxOblJXLURfZHlzM1VaR3JzWllRZzJKUkY0R2lKYXVySlJaSHFLT29pVGxsY0FoNGVyenMydmc?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YeFRJWHVWMC1ZNURsNU1EV2hEQndLTzFENEQ3ODlNY1RSLU9JRzFvaUVEX0ZrN2pGUlFwNFlJd2Mtb3MzSk9SaUxYNWtZeHAzcklUaVptU05HYzdD0gFiQVVfeXFMTmVtRXFqQmNraE44Y2NETDJkR09pelk0VjV2MG1CcjQyMG5mTGxOblJXLURfZHlzM1VaR3JzWllRZzJKUkY0R2lKYXVySlJaSHFLT29pVGxsY0FoNGVyenMydmc?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2023-10-24-aca139ef0a",
@@ -786556,6 +786976,20 @@
       "category1": "정치>행정_자치"
     },
     {
+      "id": "a1029-2023-01-18-be4d384a2e",
+      "title": "이태원 참사: '불공정하고 불신할 수밖에 없다'는 당국의 대응 - BBC",
+      "published_at": "2023-01-18",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9saGtIZWxSbDItQVFPamtTZ3NNOWQ0NmI5ZDFtbU5EQjkwcXdFSTRRSFJFWmxoLWFZNldpU3V6bFJUTXpTUXRQNmhkQzM4RTNUZ0HSAVdBVV95cUxNcE9NbjlrRk9JQWt3c2RQZlkxNGhMSTJOMGZ5YkdTU2o1dEFmU2RtWnprVzcxaEotQlRzZ21PYVZQa2RlTGVEbWVWX3RZOGoxQWptc2pINEk?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9saGtIZWxSbDItQVFPamtTZ3NNOWQ0NmI5ZDFtbU5EQjkwcXdFSTRRSFJFWmxoLWFZNldpU3V6bFJUTXpTUXRQNmhkQzM4RTNUZ0HSAVdBVV95cUxNcE9NbjlrRk9JQWt3c2RQZlkxNGhMSTJOMGZ5YkdTU2o1dEFmU2RtWnprVzcxaEotQlRzZ21PYVZQa2RlTGVEbWVWX3RZOGoxQWptc2pINEk?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2023-01-17-011058a2ff",
       "title": "이태원국조특위 야3당 위원들 단독 결과보고서 채택",
       "published_at": "2023-01-17",
@@ -947272,6 +947706,20 @@
       "reporter": "박동균 대구광역시 자치경찰위원회 상임위원",
       "source_file": "NewsResult_20221201-20221231.xlsx",
       "category1": "문화>문화일반"
+    },
+    {
+      "id": "a1029-2022-12-16-d618d40c0d",
+      "title": "\"저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다” - 뉴스타파",
+      "published_at": "2022-12-16",
+      "author": "",
+      "publisher": "뉴스타파",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xcTE4QXhyNEdiUUVqcEtXcFgwbXBQVjV4QVFFQWRKcWUxMURJUk9KNS1heExRaUhxMWNFbVl4VjRIcExKdWlYZXZn?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xcTE4QXhyNEdiUUVqcEtXcFgwbXBQVjV4QVFFQWRKcWUxMURJUk9KNS1heExRaUhxMWNFbVl4VjRIcExKdWlYZXZn?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2022-12-15-6d86d0f2e2",
@@ -1167412,6 +1167860,20 @@
       "category1": "지역>경남"
     },
     {
+      "id": "a1029-2022-11-17-72f6eb34b4",
+      "title": "이태원이 '제2의 고향'인 외국인들에게 '이태원 참사'가 남긴 트라우마 - BBC",
+      "published_at": "2022-11-17",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoV3diZkJmaTluLWhiSUhTUk9vWEJHOXJmUC1PaTNZdWVKXzRqQXVfNldjOVJhdUhlaTJKSXJ4MTB4S0c2UjRUZEp6LTR2LWxGZWfSAVdBVV95cUxPa0NVaWtYLWpJQ01KS1otQzdUMm9TRlJMaXo4RHIwNWpvX1VRYl9hZHlvR3FZbDE4RnF5b2NvU3hDZldVaW5XMk1Cb0N2SnlWNEd3UlhhM3c?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoV3diZkJmaTluLWhiSUhTUk9vWEJHOXJmUC1PaTNZdWVKXzRqQXVfNldjOVJhdUhlaTJKSXJ4MTB4S0c2UjRUZEp6LTR2LWxGZWfSAVdBVV95cUxPa0NVaWtYLWpJQ01KS1otQzdUMm9TRlJMaXo4RHIwNWpvX1VRYl9hZHlvR3FZbDE4RnF5b2NvU3hDZldVaW5XMk1Cb0N2SnlWNEd3UlhhM3c?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2022-11-16-88f4852fa9",
       "title": "3~4월로 굳어지는 국민의힘 전당대회",
       "published_at": "2022-11-16",
@@ -1260558,6 +1261020,20 @@
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2022-11-11-aa7b9e02d3",
+      "title": "이태원 참사로 우리가 알게된 것들...'위기상황서 작은 도움도 큰 힘' - BBC",
+      "published_at": "2022-11-11",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhdnBlWi0xRTR5SE1ZVmZsd2p0YThpazFtbzJoT3hvSVBNa3RGUVlOWXo0eC14bE9oMl93TnJOdWpsMldFdnc5S0hPMGdXWVAzSFHSAVdBVV95cUxNTFZ3aC1TQ0JKempCN0VuU0FYbUxScF9hbnlFT3FVaUp5QTluYlViT1lrR2pVUnBaYmsxVGdvZE9vUDg4TUJ2ZTdibG9ka3B1NkdoQ3ZXVjQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhdnBlWi0xRTR5SE1ZVmZsd2p0YThpazFtbzJoT3hvSVBNa3RGUVlOWXo0eC14bE9oMl93TnJOdWpsMldFdnc5S0hPMGdXWVAzSFHSAVdBVV95cUxNTFZ3aC1TQ0JKempCN0VuU0FYbUxScF9hbnlFT3FVaUp5QTluYlViT1lrR2pVUnBaYmsxVGdvZE9vUDg4TUJ2ZTdibG9ka3B1NkdoQ3ZXVjQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "a1029-2022-11-10-e9b8654248",
@@ -1383674,6 +1384150,20 @@
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2022-11-07-459e8da8b1",
+      "title": "이태원 참사: 한국에 낙담한 젊은 세대 - BBC",
+      "published_at": "2022-11-07",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03U0lnUWV6OWRRc0dMQVctR1c2VWhaN04tSk9HcmFhc0tGTlVyYWl0SDB0b2JGeVJsT00tWGE2TW53ZkwxUXJKSWRLTjhtVlYtM3fSAVdBVV95cUxPWDhpc3JBR1dCNDRCeUVEZkgyM3h1RXBrVXZkUkhIMDV3NDJpekVMUG1ldlZ2RmdVR1p6Mng2ckIzZnRGZVJTOWhsdU4ta21QUmZSU0ktTXM?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03U0lnUWV6OWRRc0dMQVctR1c2VWhaN04tSk9HcmFhc0tGTlVyYWl0SDB0b2JGeVJsT00tWGE2TW53ZkwxUXJKSWRLTjhtVlYtM3fSAVdBVV95cUxPWDhpc3JBR1dCNDRCeUVEZkgyM3h1RXBrVXZkUkhIMDV3NDJpekVMUG1ldlZ2RmdVR1p6Mng2ckIzZnRGZVJTOWhsdU4ta21QUmZSU0ktTXM?oc=5",
+      "note": "",
+      "collected_at": "2026-11-06",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2022-11-06-664b7033de",
