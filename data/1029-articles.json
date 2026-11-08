@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-07T06:47:18Z",
-    "total_count": 101647,
+    "last_updated": "2026-11-08T06:53:48Z",
+    "total_count": 101654,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,34 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-08-98de991969",
+      "title": "단체상해보험 시장 커졌다…수입보험료 39% 늘어난 메리츠화재 ‘약진’",
+      "published_at": "2026-11-08",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.ceoscoredaily.com/page/view/2026110408331636791",
+      "url_canon": "https://www.ceoscoredaily.com/page/view/2026110408331636791",
+      "note": "",
+      "collected_at": "2026-11-08",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-07-f21a8a8a30",
+      "title": "\"새벽 신문 읽는 것, 깊이 있는 세상 살아가는 지혜\"",
+      "published_at": "2026-11-07",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282738&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "url_canon": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282738&CMPT_CD=P0010",
+      "note": "",
+      "collected_at": "2026-11-08",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-06-f74c796148",
       "title": "'콜옵4' 영상 삭제 환영한 한국게임이용자협회 \"부당한 제재는 반대\"",
@@ -12304,6 +12332,48 @@
       "query_id": "Q1"
     },
     {
+      "id": "a1029-2026-10-29-258aa6caf9",
+      "title": "이태원참사 4주기를 기억하며 - 연합뉴스",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWVNjalJINlB1Q0hqdGNGT29TQTY4eDFWMV9UN3ctQ083Y0w4NTRocDRNYUp1MG1nUUpGQ2FsN0J3Q1FnMFdWSzJaWGMyWjloeWJzazlBcGpQaXQ5SjdYLdIBYEFVX3lxTE5YWVNjalJINlB1Q0hqdGNGT29TQTY4eDFWMV9UN3ctQ083Y0w4NTRocDRNYUp1MG1nUUpGQ2FsN0J3Q1FnMFdWSzJaWGMyWjloeWJzazlBcGpQaXQ5SjdYLQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWVNjalJINlB1Q0hqdGNGT29TQTY4eDFWMV9UN3ctQ083Y0w4NTRocDRNYUp1MG1nUUpGQ2FsN0J3Q1FnMFdWSzJaWGMyWjloeWJzazlBcGpQaXQ5SjdYLdIBYEFVX3lxTE5YWVNjalJINlB1Q0hqdGNGT29TQTY4eDFWMV9UN3ctQ083Y0w4NTRocDRNYUp1MG1nUUpGQ2FsN0J3Q1FnMFdWSzJaWGMyWjloeWJzazlBcGpQaXQ5SjdYLQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-08",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-29-e6f713ccf6",
+      "title": "이재명 대통령, 이태원참사 기억식 참석 - 연합뉴스",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFMkJmbXVyZ2RfU3FBaF9jUkhPTFJIZzZxSGQtMExYRGI0d2NJTi1BU2VJcl9Hek1peGc5TFNiWHFSOXFpeFVkdjBPM2swRXZ4bTN1X1EwZ2R1V2VlQzRRLdIBYEFVX3lxTFBFMkJmbXVyZ2RfU3FBaF9jUkhPTFJIZzZxSGQtMExYRGI0d2NJTi1BU2VJcl9Hek1peGc5TFNiWHFSOXFpeFVkdjBPM2swRXZ4bTN1X1EwZ2R1V2VlQzRRLQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFMkJmbXVyZ2RfU3FBaF9jUkhPTFJIZzZxSGQtMExYRGI0d2NJTi1BU2VJcl9Hek1peGc5TFNiWHFSOXFpeFVkdjBPM2swRXZ4bTN1X1EwZ2R1V2VlQzRRLdIBYEFVX3lxTFBFMkJmbXVyZ2RfU3FBaF9jUkhPTFJIZzZxSGQtMExYRGI0d2NJTi1BU2VJcl9Hek1peGc5TFNiWHFSOXFpeFVkdjBPM2swRXZ4bTN1X1EwZ2R1V2VlQzRRLQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-08",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-29-20217b1a6e",
+      "title": "10.29 이태원 참사 희생자 추모 묵념하는 국민의힘 - 국제뉴스",
+      "published_at": "2026-10-29",
+      "author": "",
+      "publisher": "국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SSDFZS1k0Mm1CRHh0ampNNldCSmpmSW5Pb3pOczI3U1R0X0VvSVhISDFsVzRKVVFEUEl4VUJIODVlbDB1NFZva0RfX0xaMVR0MGd4VEFTU2ctd3lmZTk1LTBuaG9pbGtJTWlOUzh3?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SSDFZS1k0Mm1CRHh0ampNNldCSmpmSW5Pb3pOczI3U1R0X0VvSVhISDFsVzRKVVFEUEl4VUJIODVlbDB1NFZva0RfX0xaMVR0MGd4VEFTU2ctd3lmZTk1LTBuaG9pbGtJTWlOUzh3?oc=5",
+      "note": "",
+      "collected_at": "2026-11-08",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "a1029-2026-10-28-b54c5a9888",
       "title": "이태원참사 4주기…외국인 유가족 \"우리 삶도 여전히 멈춰 있다\" - 연합뉴스",
       "published_at": "2026-10-28",
@@ -18515,6 +18585,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2ExWE1qcFQzT05LanN4emZ4OGVtdktBQ2U0cmxRdjFVQ010eDBvWkh4dkZuV1FNSjhhc3g1c0pYeF9pTUl3NTlzNG5vSmlRaENMTGN1T2x1R2s2TU5XbzlBTjdJdnZjMHFQRnVSV0t6UkpRc05rQWpmZi1fY3JIMjNWQXFBdw?oc=5",
       "note": "",
       "collected_at": "2026-11-07",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-27-c70f3b4d8d",
+      "title": "이태원 참사 특조위 “행안부, 대통령 지시 55분 동안 전파 안해” - 매일경제",
+      "published_at": "2026-10-27",
+      "author": "",
+      "publisher": "매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HYmlSYy03WnRLamtaU3h6eXVPc1B2Xzh0MjlCN2dvLURXME9Ba2NHWXhuN1BuTzJYVUtCWUFPdmItWlVUZllsNWNHckJkRXFNQXRSTQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HYmlSYy03WnRLamtaU3h6eXVPc1B2Xzh0MjlCN2dvLURXME9Ba2NHWXhuN1BuTzJYVUtCWUFPdmItWlVUZllsNWNHckJkRXFNQXRSTQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-08",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -229696,6 +229780,20 @@
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2024-10-31-3a9899c431",
+      "title": "[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다 - 뉴스타파",
+      "published_at": "2024-10-31",
+      "author": "",
+      "publisher": "뉴스타파",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Vd1l3VEtfa2JEVHBBVHB5VUkwN0M4LWFXdkhrWGNVMjkzOW8yZFNabHFiWlFwenN6NDBMUGMtY0FrbTd3NVlZUkdR?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Vd1l3VEtfa2JEVHBBVHB5VUkwN0M4LWFXdkhrWGNVMjkzOW8yZFNabHFiWlFwenN6NDBMUGMtY0FrbTd3NVlZUkdR?oc=5",
+      "note": "",
+      "collected_at": "2026-11-08",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2024-10-30-258fae05fd",
