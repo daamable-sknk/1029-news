@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-10T07:57:45Z",
-    "total_count": 101721,
+    "last_updated": "2026-11-11T07:27:28Z",
+    "total_count": 101735,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,48 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-11-990040d913",
+      "title": "용산구, 14∼15일 '라이징 이태원' 상권 활성화 행사",
+      "published_at": "2026-11-11",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.yna.co.kr/view/AKR20261111121500004?input=1195m",
+      "url_canon": "https://www.yna.co.kr/view/AKR20261111121500004",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-11-0feeb93e2a",
+      "title": "용산구, 14~15일 '라이징 이태원' 개최…주민·상인 주도 상권 활성화 나...",
+      "published_at": "2026-11-11",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=237870",
+      "url_canon": "https://www.job-post.co.kr/news/articleView.html?idxno=237870",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-11-2e6686bed0",
+      "title": "서울 용산구, 주민·상인 기획 '라이징 이태원' 14~15일 개최",
+      "published_at": "2026-11-11",
+      "author": "",
+      "publisher": "",
+      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117960",
+      "url_canon": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117960",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-10-4c7143bc2d",
       "title": "여야 손잡았던 ‘이태원참사 조례’, 국힘 철회로 좌초 위기 - 고양신문",
@@ -217,6 +259,20 @@
       "url_canon": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283403&CMPT_CD=P0010",
       "note": "",
       "collected_at": "2026-11-10",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-10-fbd4330706",
+      "title": "[사설]밖으로 도는 삼풍 추모공간, 도로에 숨은 성수대교 위령탑",
+      "published_at": "2026-11-10",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.donga.com/news/Opinion/article/all/20261110/135002609/2",
+      "url_canon": "https://www.donga.com/news/Opinion/article/all/20261110/135002609/2",
+      "note": "",
+      "collected_at": "2026-11-11",
       "collector": "auto",
       "source": "naver",
       "query_id": "Q1"
@@ -751,6 +807,20 @@
       "collected_at": "2026-11-10",
       "collector": "auto",
       "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-09-a8f1dc21ab",
+      "title": "허태정 대전시장, '생명보다 소중한 가치 없어'... 이태원참사 유가족 위로 면담 - 뉴스워커",
+      "published_at": "2026-11-09",
+      "author": "",
+      "publisher": "뉴스워커",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5acW9US2Qzd3V3MkZNaVQ2UHBfTUhDVnBvN2xlaTYzd3htMl8tUUhCOW44QXdzNW1YckZlaGZnS1IzOURhT0YtT2lLOTRGY2VWT3hHc3k5OUVVb3NPZmVLcEczWW9PWUdCaHdZSU02Mm3SAXRBVV95cUxOR3kxUGhGRVJXMnBFMFNocGZyckpoc2d4V0tMUWxZU1NyOGlscDVoN21DckpKdlN3cVBMWHFUWGptMzVWYmlrSF9rOEYzcmgwakF2Z0xTVzFFOTdpZlFHdmV0ckhYSjdKX3QzM3dYQk16QXJ3bQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5acW9US2Qzd3V3MkZNaVQ2UHBfTUhDVnBvN2xlaTYzd3htMl8tUUhCOW44QXdzNW1YckZlaGZnS1IzOURhT0YtT2lLOTRGY2VWT3hHc3k5OUVVb3NPZmVLcEczWW9PWUdCaHdZSU02Mm3SAXRBVV95cUxOR3kxUGhGRVJXMnBFMFNocGZyckpoc2d4V0tMUWxZU1NyOGlscDVoN21DckpKdlN3cVBMWHFUWGptMzVWYmlrSF9rOEYzcmgwakF2Z0xTVzFFOTdpZlFHdmV0ckhYSjdKX3QzM3dYQk16QXJ3bQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
       "query_id": "Q1"
     },
     {
@@ -127568,6 +127638,20 @@
       "query_id": "Q1"
     },
     {
+      "id": "a1029-2025-10-29-4a67d0df62",
+      "title": "이태원 참사 3주기 기억식…정부 대표 처음 참석 - KBS 뉴스",
+      "published_at": "2025-10-29",
+      "author": "",
+      "publisher": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IazY3eE9wZTJ4RXRiT2RTd0sweS1TdjRzQzhrRjU4LVpkbXE3dkhIcFVzTkMwOUtFVHlYNmk2dDREc21KRzJjd1djRm1KTzF0M2d5bGxEN19PdGM?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IazY3eE9wZTJ4RXRiT2RTd0sweS1TdjRzQzhrRjU4LVpkbXE3dkhIcFVzTkMwOUtFVHlYNmk2dDREc21KRzJjd1djRm1KTzF0M2d5bGxEN19PdGM?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "a1029-2025-10-28-dc56c90d3e",
       "title": "\"기일 돌아오면 2차 가해도 늘어…이태원특별법에 처벌 조항 추가해야\" - 뉴스1",
       "published_at": "2025-10-28",
@@ -133810,6 +133894,20 @@
       "reporter": "이서현",
       "source_file": "NewsResult_2025.xlsx",
       "category1": "사회>미디어"
+    },
+    {
+      "id": "a1029-2025-10-24-48c95fc62e",
+      "title": "이태원 참사 3주기…외국인 희생자 유가족 공식 방한 - 연합뉴스",
+      "published_at": "2025-10-24",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsdldUWXJ1YUs4UXVHMGZoSmNWUTJJQ0lVUHFHQS1IQ2hMVm1DRDFYS2RpTnBDdmpLZC1VUmZmdThUVlhqVVhyaFh1bmREa1JxWnpxQ1VQS3FwTzTSAWBBVV95cUxOMGQzUlRBcVVTdV9nMy0wR2ZFN3NkX1hpT0hkbGJMOENhYzE2a1Zta1RrbzdOUFFnNHhIeWhTYkFSaDFqVlp1VEQxdU9xcVZ3YmdEVzNPcjFPVnZjcFU0WEg?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsdldUWXJ1YUs4UXVHMGZoSmNWUTJJQ0lVUHFHQS1IQ2hMVm1DRDFYS2RpTnBDdmpLZC1VUmZmdThUVlhqVVhyaFh1bmREa1JxWnpxQ1VQS3FwTzTSAWBBVV95cUxOMGQzUlRBcVVTdV9nMy0wR2ZFN3NkX1hpT0hkbGJMOENhYzE2a1Zta1RrbzdOUFFnNHhIeWhTYkFSaDFqVlp1VEQxdU9xcVZ3YmdEVzNPcjFPVnZjcFU0WEg?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2025-10-23-de58cf432f",
@@ -159272,6 +159370,20 @@
       "reporter": "박창현",
       "source_file": "NewsResult_2025.xlsx",
       "category1": "정치>청와대"
+    },
+    {
+      "id": "a1029-2025-07-24-7f7e42726e",
+      "title": "\"천일의 그리움, 천번의 약속\"…이태원참사 1천일 추모행사 - 연합뉴스",
+      "published_at": "2025-07-24",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RajRyRHFEUGVnR1AxNDM3cGhZN0VCeHhxNWtCd05fSGh6RV93VWU4N1YwUkNQamlhSC1USnZfT2RKNDNJOU9kdXJUN0g3bS1vanZKQWFhS09BUDDSAWBBVV95cUxOcUZpR2EyWEtZTGpLSTA1SHlCUjdvT193Wi14a2xCVnFXdDdFV01FODlnM2h1MGI3enFFMjBCQjJqTXZpamcwTWpUUXdoakNwc1JwdlgzMUpKVFZFenpfUEU?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RajRyRHFEUGVnR1AxNDM3cGhZN0VCeHhxNWtCd05fSGh6RV93VWU4N1YwUkNQamlhSC1USnZfT2RKNDNJOU9kdXJUN0g3bS1vanZKQWFhS09BUDDSAWBBVV95cUxOcUZpR2EyWEtZTGpLSTA1SHlCUjdvT193Wi14a2xCVnFXdDdFV01FODlnM2h1MGI3enFFMjBCQjJqTXZpamcwTWpUUXdoakNwc1JwdlgzMUpKVFZFenpfUEU?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2025-07-23-7f99df63b4",
@@ -227568,6 +227680,20 @@
       "category1": "정치>국회_정당"
     },
     {
+      "id": "a1029-2024-11-10-b43b2a0819",
+      "title": "\"잊지 않고 기억할게\"…이태원 참사 추모공간 이전 개소식 - 연합뉴스",
+      "published_at": "2024-11-10",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84enMxODFaSzFHRkxaalhKQm9lSTMxSWRpU0FlMkEtWHpYUjNGY3FDVTVyOFhNREgzcnlPV0ppa2tDYmlQdjhLSmpDY05ta3drX3ltdWVXZmxDLVHSAWBBVV95cUxOS3VBcXNndHBpM2VYaVU1eEZXTXRTQ2R0Q0pVcmRScnRJOU9NU0EzMldoRGtqVFlFd1pZU0xUbDM0aXc2bTRxUHlpTWpPX240UnFQUENPMmpieUY0TlMtNUI?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84enMxODFaSzFHRkxaalhKQm9lSTMxSWRpU0FlMkEtWHpYUjNGY3FDVTVyOFhNREgzcnlPV0ppa2tDYmlQdjhLSmpDY05ta3drX3ltdWVXZmxDLVHSAWBBVV95cUxOS3VBcXNndHBpM2VYaVU1eEZXTXRTQ2R0Q0pVcmRScnRJOU9NU0EzMldoRGtqVFlFd1pZU0xUbDM0aXc2bTRxUHlpTWpPX240UnFQUENPMmpieUY0TlMtNUI?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2024-11-09-bd036acc63",
       "title": "\"대통령이 김건희인지 명태균인지 묻는데, 윤석열 정권은 눈과 귀 닫아\"",
       "published_at": "2024-11-09",
@@ -261806,6 +261932,20 @@
       "reporter": "CBS노컷뉴스 이재웅 논설위원\n이재웅",
       "source_file": "NewsResult_2024.xlsx",
       "category1": "정치>청와대"
+    },
+    {
+      "id": "a1029-2024-09-25-974273d45c",
+      "title": "[이태원 참사 미규명 진실] ⑨ 피해자 모임, 정부는 방치했나 방해했나 - 뉴스타파",
+      "published_at": "2024-09-25",
+      "author": "",
+      "publisher": "뉴스타파",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SRC1rRk9DVDRDRDJyN29Ja25hR3c0MFc2eE9YaUFKRWtSZEpBc21mempaaTZuQ09xZW9iRm1FSGpraFotVnMxVjl3?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SRC1rRk9DVDRDRDJyN29Ja25hR3c0MFc2eE9YaUFKRWtSZEpBc21mempaaTZuQ09xZW9iRm1FSGpraFotVnMxVjl3?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2024-09-24-2c38a0cb3c",
@@ -492428,6 +492568,20 @@
       "query_id": "Q3"
     },
     {
+      "id": "a1029-2023-10-29-7611e45463",
+      "title": "\"'잘가거라' 한마디 못했건만\"…이태원 참사 1주년 애도물결(종합) - 연합뉴스",
+      "published_at": "2023-10-29",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91enpIa3BGU2QwcXFfR0VTa2M2bnVJN3hSUllGRGNzcmd2V3lVaU1sNGR5azZZd0NkMlZUSGFaQXdua2xGM0JrUFF0QXF2MHhhR2Y1eGwxdzJZalXSAWBBVV95cUxPT2taZEU4RTd5Vk51VHp3Q3dkMno3bVNsd2N4Q0gyZXo2LWNxS0MzZnFmb3Ita1g5Q3JHd0dfV3J4eHZxcGtfVFZaNTYtNkNrOGpvSTB1U0FwRW9LQUdVMWE?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91enpIa3BGU2QwcXFfR0VTa2M2bnVJN3hSUllGRGNzcmd2V3lVaU1sNGR5azZZd0NkMlZUSGFaQXdua2xGM0JrUFF0QXF2MHhhR2Y1eGwxdzJZalXSAWBBVV95cUxPT2taZEU4RTd5Vk51VHp3Q3dkMno3bVNsd2N4Q0gyZXo2LWNxS0MzZnFmb3Ita1g5Q3JHd0dfV3J4eHZxcGtfVFZaNTYtNkNrOGpvSTB1U0FwRW9LQUdVMWE?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "a1029-2023-10-28-84d7de2a02",
       "title": "이태원 특별법이 ‘야만적 기구’ 낳는다고? [이태원 참사 1주기] - 시사IN",
       "published_at": "2023-10-28",
@@ -552755,6 +552909,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RSmpaUEN5YnFHUUdKbm5tcEtEMnVRZFFMMDFuenRNU09NUzNqZ2xGSFhrRlZ1UHhMaDdTREFXYkYyTzd0MlE2ODZhZ1B1U1JsUHVTQTVzN05NUndtWHc?oc=5",
       "note": "",
       "collected_at": "2026-10-21",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q3"
+    },
+    {
+      "id": "a1029-2023-08-22-3fe0f6d027",
+      "title": "이태원 특별법, 왜 국회 문턱에서 멈췄는가 [만리재사진첩] - 한겨레",
+      "published_at": "2023-08-22",
+      "author": "",
+      "publisher": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fbkxjd2oxVm5aZmxFMHpOUTMzUEdEMWJVRXBtWjNHOGhSY2JCYTFyTjNFN0N4QU1ma0kxdWg3R21SV1JSOXo4emR4UkJMVDNXY3JNNVFTUXR0dXA4NmxSakVmNHFnNWpqTTFHU2VabU1PQQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fbkxjd2oxVm5aZmxFMHpOUTMzUEdEMWJVRXBtWjNHOGhSY2JCYTFyTjNFN0N4QU1ma0kxdWg3R21SV1JSOXo4emR4UkJMVDNXY3JNNVFTUXR0dXA4NmxSakVmNHFnNWpqTTFHU2VabU1PQQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q3"
@@ -693042,6 +693210,20 @@
       "reporter": "이상규",
       "source_file": "NewsResult_20230101-20230630.xlsx",
       "category1": "미분류"
+    },
+    {
+      "id": "a1029-2023-03-08-6925d5ed26",
+      "title": "기약 없는 이태원 참사 추모 공간... 또 사라진 '국가의 의무' - 뉴스타파",
+      "published_at": "2023-03-08",
+      "author": "",
+      "publisher": "뉴스타파",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yeDVTVk9YdXFlQ2JFTlNpQ3R0WFJqOXpoc00tZUU2OTkxYjBuaFo5ZnEzQzZIMlM3cUk4dVpWeGc1aDhOQ21pM3hR?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yeDVTVk9YdXFlQ2JFTlNpQ3R0WFJqOXpoc00tZUU2OTkxYjBuaFo5ZnEzQzZIMlM3cUk4dVpWeGc1aDhOQ21pM3hR?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2023-03-07-c7f8c4e6fa",
@@ -1806698,6 +1806880,20 @@
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2022-10-30-91553cdcd0",
+      "title": "[이태원 참사] 피해 왜 컸나…55평 넓이 골목에 '통제불능' 인파 - 연합뉴스",
+      "published_at": "2022-10-30",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vZkV0M3lTQURMR1dHNlpIN2FwNU1hY0xGT2FWdFp3UHNpYVFXVFV2Q19rc1ZXYXNBOUdGMjNCLTNBS29fQkg1Z1BtcXpadE0xMjNUSFg0cWp4UG_SAWBBVV95cUxPbktIQzdvMEtpajFSS2JCWlFCREdNLTBxZUYyQWJRZlFKZW5vb0lKS0hKUjFqQUZRVGlvcUx4SDJpaEJtZy1GS21EdU5BN2pPUkRhQTQ5RFIxOEwtTnZXUnc?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vZkV0M3lTQURMR1dHNlpIN2FwNU1hY0xGT2FWdFp3UHNpYVFXVFV2Q19rc1ZXYXNBOUdGMjNCLTNBS29fQkg1Z1BtcXpadE0xMjNUSFg0cWp4UG_SAWBBVV95cUxPbktIQzdvMEtpajFSS2JCWlFCREdNLTBxZUYyQWJRZlFKZW5vb0lKS0hKUjFqQUZRVGlvcUx4SDJpaEJtZy1GS21EdU5BN2pPUkRhQTQ5RFIxOEwtTnZXUnc?oc=5",
+      "note": "",
+      "collected_at": "2026-11-11",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2022-10-29-a8f75cc83b",
