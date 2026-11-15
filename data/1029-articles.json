@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-14T07:17:52Z",
-    "total_count": 101815,
+    "last_updated": "2026-11-15T07:28:36Z",
+    "total_count": 101820,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,34 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-15-adc5ca71a2",
+      "title": "이태원 상권 회복을 기원하는 '라이징 이태원' [한강로 사진관]",
+      "published_at": "2026-11-15",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.segye.com/newsView/20261115508122?OutUrl=naver",
+      "url_canon": "https://www.segye.com/newsView/20261115508122?OutUrl=naver",
+      "note": "",
+      "collected_at": "2026-11-15",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-15-4ad136ed04",
+      "title": "[SHOT+] 이태원 상권의 활성화를 위해 '라이징 이태원'",
+      "published_at": "2026-11-15",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01548166645646048&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "url_canon": "https://www.edaily.co.kr/News/Read?newsId=01548166645646048&mediaCodeNo=257&utm_content=original_article",
+      "note": "",
+      "collected_at": "2026-11-15",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-14-6def3b6181",
       "title": "이태원 참사 특조위, 정보공개 '뒷전'…유가족 알권리 외면하나 - 한국NGO신문",
@@ -24395,6 +24423,34 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LdGNJc2pyUFFNVVhDWTd1RGpMdGJPZjBHYlRPQ1JObk1lUTZfRG1jUHdZbG1CTUhJX0hwSXBWNFl2UHVOanJISElyVGxZYUpZZlIxTU1WbHQ0bk9ib0xONtIBYEFVX3lxTE9LdGNJc2pyUFFNVVhDWTd1RGpMdGJPZjBHYlRPQ1JObk1lUTZfRG1jUHdZbG1CTUhJX0hwSXBWNFl2UHVOanJISElyVGxZYUpZZlIxTU1WbHQ0bk9ib0xONg?oc=5",
       "note": "",
       "collected_at": "2026-11-07",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-24-975bfbb51e",
+      "title": "이태원참사 4주기 맞아 열린 4대종교 추모 기도회 - 연합뉴스",
+      "published_at": "2026-10-24",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iNTAxZ21PalFIaEZqTzVNSHV0TXF0bWNyejZXYk56YUJtYTh0Qm5CX3hfSjBIQmgwNkFiNm9yelllOTV0ZF9sWVY2RVNuVTZfWU1hSXo1Si1hNzjSAWBBVV95cUxOSEk2VGNUaVZrWUpSNmJ1ZFo1STVfX3BObVRZUHI4Ty01UEN2UkFBaUtKcllCZTNjU1k5c0gyS19MS0tFR0lUdTVyaFdiUUpoZFN3dTluUlNQbkl2SzJTQ2M?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iNTAxZ21PalFIaEZqTzVNSHV0TXF0bWNyejZXYk56YUJtYTh0Qm5CX3hfSjBIQmgwNkFiNm9yelllOTV0ZF9sWVY2RVNuVTZfWU1hSXo1Si1hNzjSAWBBVV95cUxOSEk2VGNUaVZrWUpSNmJ1ZFo1STVfX3BObVRZUHI4Ty01UEN2UkFBaUtKcllCZTNjU1k5c0gyS19MS0tFR0lUdTVyaFdiUUpoZFN3dTluUlNQbkl2SzJTQ2M?oc=5",
+      "note": "",
+      "collected_at": "2026-11-15",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-10-24-b8e286b3e9",
+      "title": "한성숙 총리, 이태원 참사 4주기 추모행사 참석 - 연합뉴스",
+      "published_at": "2026-10-24",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95WlI5a0p6TXltN2JhNHhnT2hmQ1hXTWZUM3MxYkxkcGx2cDhSaEZjY2ZNNUdmWDk4NVdncUFvV01pYk9RZkVsUnpYTHRsSldyNWpZTU5PYk9fWVXSAWBBVV95cUxPa2tCaDFjTU1Sa21QaGhCYnphLUNTY3FrRjB3aGk5N1NCVWtTMFd0dFlna0lsN0MwMEV3V3phVnU3RXJPZHJIS090dmRYVy03TktzUlVEelA2ZTJtVDVYZlo?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95WlI5a0p6TXltN2JhNHhnT2hmQ1hXTWZUM3MxYkxkcGx2cDhSaEZjY2ZNNUdmWDk4NVdncUFvV01pYk9RZkVsUnpYTHRsSldyNWpZTU5PYk9fWVXSAWBBVV95cUxPa2tCaDFjTU1Sa21QaGhCYnphLUNTY3FrRjB3aGk5N1NCVWtTMFd0dFlna0lsN0MwMEV3V3phVnU3RXJPZHJIS090dmRYVy03TktzUlVEelA2ZTJtVDVYZlo?oc=5",
+      "note": "",
+      "collected_at": "2026-11-15",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q1"
@@ -1229064,6 +1229120,20 @@
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2022-11-14-4fd725641d",
+      "title": "이태원 참사: 트라우마와 내부 혼란 겪는 소방관들 - BBC",
+      "published_at": "2022-11-14",
+      "author": "",
+      "publisher": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FaVJSd2h5RW94SFU1eW1KaW1KTEM5YW5YVW5OV213M1RPZHdOcmhjZ2FlOG5wQVdyUWFZUlFiQjhpSFg5VTExUUdIM19KbFZ3eHBfRnZxb9IBXEFVX3lxTE96X3NObkRkX0xKNXB4VWtCWGhoNXhPUmFDTWJnenh5cmlWRlhBV3o1dktpTy1ra3Q0OWZZWVRNX2JSSjlGMm5KZ2hsNDhZdEJnVG9YN09EQmxUaFhO?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FaVJSd2h5RW94SFU1eW1KaW1KTEM5YW5YVW5OV213M1RPZHdOcmhjZ2FlOG5wQVdyUWFZUlFiQjhpSFg5VTExUUdIM19KbFZ3eHBfRnZxb9IBXEFVX3lxTE96X3NObkRkX0xKNXB4VWtCWGhoNXhPUmFDTWJnenh5cmlWRlhBV3o1dktpTy1ra3Q0OWZZWVRNX2JSSjlGMm5KZ2hsNDhZdEJnVG9YN09EQmxUaFhO?oc=5",
+      "note": "",
+      "collected_at": "2026-11-15",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2022-11-13-57f5076b10",
