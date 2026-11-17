@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-16T07:34:30Z",
-    "total_count": 101836,
+    "last_updated": "2026-11-17T08:45:34Z",
+    "total_count": 101843,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,48 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-17-988b40f90a",
+      "title": "[방송소식] 아이브 가을, ENA 다큐 '하지 못한 말' 프리젠터 참여",
+      "published_at": "2026-11-17",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.yna.co.kr/view/AKR20261117063000005?input=1195m",
+      "url_canon": "https://www.yna.co.kr/view/AKR20261117063000005",
+      "note": "",
+      "collected_at": "2026-11-17",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-17-0dfd45b6e1",
+      "title": "어쩐지 빠르더라…10월부터 크리스마스 트리 꺼내는 이유 [권용훈의 트...",
+      "published_at": "2026-11-17",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.hankyung.com/article/202611160431i",
+      "url_canon": "https://www.hankyung.com/article/202611160431i",
+      "note": "",
+      "collected_at": "2026-11-17",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-17-b57c2aaa12",
+      "title": "〈시사IN〉 1000호 발간 기념, 독자들이 뽑은 최고의 표지는?",
+      "published_at": "2026-11-17",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58798",
+      "url_canon": "https://www.sisain.co.kr/news/articleView.html?idxno=58798",
+      "note": "",
+      "collected_at": "2026-11-17",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-16-f7662628d5",
       "title": "[발행인 칼럼] 이태원 참사 4주기, 국가의 책임은 추모사 너머에서 시작된다 - 시사의창",
@@ -147,6 +189,48 @@
       "url_canon": "https://www.pennmike.com/news/articleView.html?idxno=131888",
       "note": "",
       "collected_at": "2026-11-16",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-16-b697711b7a",
+      "title": "김장에 담은 복음…감리회, 이웃과 나눈 10톤의 온기",
+      "published_at": "2026-11-16",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.nocutnews.co.kr/news/6607746?utm_source=naver&utm_medium=article&utm_campaign=20261116220101",
+      "url_canon": "https://www.nocutnews.co.kr/news/6607746",
+      "note": "",
+      "collected_at": "2026-11-17",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-16-ba7a7dc532",
+      "title": "김지용 중수청장 취임 한 달째… 권한 갈등·인력난 해소 ‘과제’",
+      "published_at": "2026-11-16",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.segye.com/newsView/20261116515024?OutUrl=naver",
+      "url_canon": "https://www.segye.com/newsView/20261116515024?OutUrl=naver",
+      "note": "",
+      "collected_at": "2026-11-17",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-16-5e4b1c9ac9",
+      "title": "위급한 순간 생명을 살리는 법…서울소년원, 전교생·교직원 심폐소생술...",
+      "published_at": "2026-11-16",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.gosiweek.com/article/1065602096138307",
+      "url_canon": "https://www.gosiweek.com/article/1065602096138307",
+      "note": "",
+      "collected_at": "2026-11-17",
       "collector": "auto",
       "source": "naver",
       "query_id": "Q1"
@@ -550470,6 +550554,20 @@
       "reporter": "박태영",
       "source_file": "NewsResult_20230701-20231231.xlsx",
       "category1": "정치>국회_정당"
+    },
+    {
+      "id": "a1029-2023-08-30-dd211082c9",
+      "title": "이태원특별법, 국힘 불참 속 행안위 안건조정위 통과…피해자 축소 - 한겨레",
+      "published_at": "2023-08-30",
+      "author": "",
+      "publisher": "한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92bVVhdlkyaThUcVlCZE90elVodVdmZG9ITWY2WjdHWTNZZFhxV1VmZllJUXI3ckI0SXA5UEhDd0tQb2FfRGdwS28tVUpSNVVqb0hIeEMzVDlWUzN0aFlHT3I3cG9abWc5MHc?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92bVVhdlkyaThUcVlCZE90elVodVdmZG9ITWY2WjdHWTNZZFhxV1VmZllJUXI3ckI0SXA5UEhDd0tQb2FfRGdwS28tVUpSNVVqb0hIeEMzVDlWUzN0aFlHT3I3cG9abWc5MHc?oc=5",
+      "note": "",
+      "collected_at": "2026-11-17",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q3"
     },
     {
       "id": "bk-2023-08-29-5b2117f32c",
