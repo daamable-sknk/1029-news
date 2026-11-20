@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-19T08:19:58Z",
-    "total_count": 101865,
+    "last_updated": "2026-11-20T07:59:53Z",
+    "total_count": 101872,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,34 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-20-e4bb4cc5c8",
+      "title": "세월호를 기억하는 마음으로 함께 질문한다는 것",
+      "published_at": "2026-11-20",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286815&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "url_canon": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286815&CMPT_CD=P0010",
+      "note": "",
+      "collected_at": "2026-11-20",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-20-47d7b0590e",
+      "title": "수원시의회 조인희 의원, 생명안전 기본 조례 제정 추진",
+      "published_at": "2026-11-20",
+      "author": "",
+      "publisher": "",
+      "url": "http://www.metroseoul.co.kr/article/20261119500683",
+      "url_canon": "http://www.metroseoul.co.kr/article/20261119500683",
+      "note": "",
+      "collected_at": "2026-11-20",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-19-76a3bf52da",
       "title": "이태원참사 유족이 여전히 '감사원 감사'를 요구하는 이유 - OhmyNews",
@@ -105,6 +133,20 @@
       "url_canon": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285995&CMPT_CD=P0010",
       "note": "",
       "collected_at": "2026-11-19",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-19-1ddff998c5",
+      "title": "11월에 '크리스마스 트리' 왜?…'예상밖 풍경' 이유 있었다",
+      "published_at": "2026-11-19",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.hankyung.com/article/2026111981821",
+      "url_canon": "https://www.hankyung.com/article/2026111981821",
+      "note": "",
+      "collected_at": "2026-11-20",
       "collector": "auto",
       "source": "naver",
       "query_id": "Q1"
@@ -69648,6 +69690,20 @@
       "query_id": "Q4"
     },
     {
+      "id": "a1029-2026-07-29-7a826261ec",
+      "title": "이태원참사 다음날 ‘참사’를 ‘사고’로…특조위 회의록 확보 - KBS 뉴스",
+      "published_at": "2026-07-29",
+      "author": "",
+      "publisher": "KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nREFhV0JFRVJiWUxxcWFicU1RbjM0Q0MzY2NoZUdQWEY4RHZnX3dva0hMSVZwY0tCdzhiZ2RZNy05ZzJvNW9BTTFkMWxQbkphaV8tMlhHTmxydFk?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nREFhV0JFRVJiWUxxcWFicU1RbjM0Q0MzY2NoZUdQWEY4RHZnX3dva0hMSVZwY0tCdzhiZ2RZNy05ZzJvNW9BTTFkMWxQbkphaV8tMlhHTmxydFk?oc=5",
+      "note": "",
+      "collected_at": "2026-11-20",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q4"
+    },
+    {
       "id": "a1029-2026-07-28-e93cd36d84",
       "title": "이태원특조위, 尹정부 '참사'→'사고' 용어 바꾼 회의록 확보",
       "published_at": "2026-07-28",
@@ -71817,6 +71873,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04MGV2RXJ0MzZDaTZETVR1TFpDMExkc21qSGhhRlNNUWN3Z250ampGLVpRUndBLXIyYlo1bEpPYUlicThxd3ROemhqekxZd2RGSTFxY1FTNEdJOTh3aDBEZmF5TnkwQQ?oc=5",
       "note": "",
       "collected_at": "2026-11-14",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q4"
+    },
+    {
+      "id": "a1029-2026-07-28-af621d6cf6",
+      "title": "'이태원 참사' 용어 변경, 중대본 첫 회의서 논의됐다 - 데일리굿뉴스",
+      "published_at": "2026-07-28",
+      "author": "",
+      "publisher": "데일리굿뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6N0cybmpJYVZQci1SQ3pzZ0VnRVMtNEpwbTZybXFUa2JKSlZsX2pQWGxNdFRkNWhwM0tvQm13ZDJ0Tmg4andvTDN6U2tQTzU3c0RNeFFIRWVQbW1IcEVPUWx1Q3hSYk10WVJ0QQ?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6N0cybmpJYVZQci1SQ3pzZ0VnRVMtNEpwbTZybXFUa2JKSlZsX2pQWGxNdFRkNWhwM0tvQm13ZDJ0Tmg4andvTDN6U2tQTzU3c0RNeFFIRWVQbW1IcEVPUWx1Q3hSYk10WVJ0QQ?oc=5",
+      "note": "",
+      "collected_at": "2026-11-20",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q4"
@@ -106890,6 +106960,20 @@
       "reporter": "변현철",
       "source_file": "NewsResult_2026.xlsx",
       "category1": "정치>정치일반"
+    },
+    {
+      "id": "a1029-2026-02-09-332485e2d4",
+      "title": "‘이태원 재수사’에 \"잔인한 추궁\"…소방관 돌아간 오영환, 참사 유가족에 자필 편지 - JTBC",
+      "published_at": "2026-02-09",
+      "author": "",
+      "publisher": "JTBC",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSENxLS1RRXNOYTBzRXcxNkJZQzVfX2hQZW1scVB1MWtjaFdTTVU3SkJzaXNoMG1Da2tZendpa05jcjE1czd2MWp6eDVNY1F5U0w2aw?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDSENxLS1RRXNOYTBzRXcxNkJZQzVfX2hQZW1scVB1MWtjaFdTTVU3SkJzaXNoMG1Da2tZendpa05jcjE1czd2MWp6eDVNY1F5U0w2aw?oc=5",
+      "note": "",
+      "collected_at": "2026-11-20",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2026-02-08-e1d2db561d",
@@ -159224,6 +159308,20 @@
       "reporter": "김다인",
       "source_file": "NewsResult_2025.xlsx",
       "category1": "미분류"
+    },
+    {
+      "id": "a1029-2025-08-04-53a598ccae",
+      "title": "이태원 참사 추모위 첫 회의…김 총리 \"안전한 대한민국 출발점으로\" - 대한민국 정책브리핑",
+      "published_at": "2025-08-04",
+      "author": "",
+      "publisher": "대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BTG9xQU52NFlHanlzdlUwRldWeFVHY2lYcWpRdzJiM1R5SXhyMVE1MF9sMjhPYXRDRTRuRk8zTGRUN0VhVUhzYUNkblFXa3MySUNHOG5XTjk4eHZkenJ2cGRDOHE5ZGx0NklFUA?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BTG9xQU52NFlHanlzdlUwRldWeFVHY2lYcWpRdzJiM1R5SXhyMVE1MF9sMjhPYXRDRTRuRk8zTGRUN0VhVUhzYUNkblFXa3MySUNHOG5XTjk4eHZkenJ2cGRDOHE5ZGx0NklFUA?oc=5",
+      "note": "",
+      "collected_at": "2026-11-20",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
     },
     {
       "id": "bk-2025-08-03-a2ab2bc08b",
