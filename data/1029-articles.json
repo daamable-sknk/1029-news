@@ -2,8 +2,8 @@
   "meta": {
     "title": "1029 이태원 참사 언론 목록",
     "since": "2022-10-29",
-    "last_updated": "2026-11-20T07:59:53Z",
-    "total_count": 101872,
+    "last_updated": "2026-11-21T07:56:17Z",
+    "total_count": 101877,
     "sources": [
       "bigkinds",
       "google_news",
@@ -11,6 +11,34 @@
     ]
   },
   "items": [
+    {
+      "id": "a1029-2026-11-21-d52d9d89b1",
+      "title": "가습기살균제 참사 피해자단체 \"고인의 죽음 앞세워 피해자들 입 막지 ...",
+      "published_at": "2026-11-21",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286973&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "url_canon": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286973&CMPT_CD=P0010",
+      "note": "",
+      "collected_at": "2026-11-21",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-21-0544d9b43d",
+      "title": "GTA6, 최고 평점 기록…'걸작' 평가 받아",
+      "published_at": "2026-11-21",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.bbc.com/korean/articles/cw7728z5gnkxo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "url_canon": "https://www.bbc.com/korean/articles/cw7728z5gnkxo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "note": "",
+      "collected_at": "2026-11-21",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
     {
       "id": "a1029-2026-11-20-e4bb4cc5c8",
       "title": "세월호를 기억하는 마음으로 함께 질문한다는 것",
@@ -35,6 +63,20 @@
       "url_canon": "http://www.metroseoul.co.kr/article/20261119500683",
       "note": "",
       "collected_at": "2026-11-20",
+      "collector": "auto",
+      "source": "naver",
+      "query_id": "Q1"
+    },
+    {
+      "id": "a1029-2026-11-20-e6c846b4a5",
+      "title": "사란진 핼러윈에 일찍 온 크리스마스 마케팅···유통가 '올인'",
+      "published_at": "2026-11-20",
+      "author": "",
+      "publisher": "",
+      "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308118",
+      "url_canon": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308118",
+      "note": "",
+      "collected_at": "2026-11-21",
       "collector": "auto",
       "source": "naver",
       "query_id": "Q1"
@@ -134690,6 +134732,20 @@
       "query_id": "Q1"
     },
     {
+      "id": "a1029-2025-10-25-0e41583d9d",
+      "title": "이태원 참사 3주기 추모식…정부 첫 공동주관 - 연합뉴스TV",
+      "published_at": "2025-10-25",
+      "author": "",
+      "publisher": "연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyUmgxem1uQXZJZVN6OUY5UWh1dVIwdmFBc21wRThIeTV3WkdlT2lOWVRNemhKMFNsa0ctMXdSbldUUTk2V2I0Ti1RQktiaGNLMDBvaTFEMXA0b3U1ajM0bkp6WjFJaFk?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyUmgxem1uQXZJZVN6OUY5UWh1dVIwdmFBc21wRThIeTV3WkdlT2lOWVRNemhKMFNsa0ctMXdSbldUUTk2V2I0Ti1RQktiaGNLMDBvaTFEMXA0b3U1ajM0bkp6WjFJaFk?oc=5",
+      "note": "",
+      "collected_at": "2026-11-21",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q1"
+    },
+    {
       "id": "bk-2025-10-24-de59c8084d",
       "title": "핼러윈 비상대응 시작 이 시각 서울 이태원",
       "published_at": "2025-10-24",
@@ -171645,6 +171701,20 @@
       "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aT182M2JhMVZ1Z2k5YW1SR1lHT1owZk5lYk92Q2pwRFd4b0R4UktFOG9ZUVViOHQ5Vk5fSzl0YXJ5VVo0T3ByOUxBYmlSYUNoT0EtYi0xcUlrR2c?oc=5",
       "note": "",
       "collected_at": "2026-08-31",
+      "collector": "auto",
+      "source": "google_news",
+      "query_id": "Q2"
+    },
+    {
+      "id": "a1029-2025-06-17-f79c20856b",
+      "title": "이태원 특조위, 진상규명 조사 개시…유족들 \"진실 밝혀내길\" - 연합뉴스",
+      "published_at": "2025-06-17",
+      "author": "",
+      "publisher": "연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2aEMzdUlxRExvWnh6MzV2NWhlNllGYmUta2UteFpjWnJoQjJaWF95SE9fWnBRRjJYZkNNOVdMN2d5Wm1qTTZpakxGd0tLeTVfVlY5elp1R2dNWVHSAWBBVV95cUxNT1A0T0RONGxFejV1UWlJS0JTcE4xU0U0RVZmVXI4TDJxU21XTFhtaW9vakt6N2tsTGdJaFdZRnVDZmkycC1iZ1ZfUE1Gb09qcUlEeWF6Y3B3TzVhY1NXTm8?oc=5",
+      "url_canon": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2aEMzdUlxRExvWnh6MzV2NWhlNllGYmUta2UteFpjWnJoQjJaWF95SE9fWnBRRjJYZkNNOVdMN2d5Wm1qTTZpakxGd0tLeTVfVlY5elp1R2dNWVHSAWBBVV95cUxNT1A0T0RONGxFejV1UWlJS0JTcE4xU0U0RVZmVXI4TDJxU21XTFhtaW9vakt6N2tsTGdJaFdZRnVDZmkycC1iZ1ZfUE1Gb09qcUlEeWF6Y3B3TzVhY1NXTm8?oc=5",
+      "note": "",
+      "collected_at": "2026-11-21",
       "collector": "auto",
       "source": "google_news",
       "query_id": "Q2"
